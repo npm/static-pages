@@ -1,4 +1,4 @@
-## **N**ice **P**eople **M**atter: npm is hiring
+## Nice People Matter: npm is hiring
 
 We are actively hiring for a [Client Executive](http://www.npmjs.com/client-executive/) role.
 
