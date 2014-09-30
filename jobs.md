@@ -1,6 +1,6 @@
 ## Nice People Matter: npm is hiring
 
-We are actively hiring for a [Client Executive](http://www.npmjs.com/client-executive/) role.
+We are actively hiring for a [Client Executive](/client-executive) role.
 
 We are not, however, currently hiring for any specific development and operations roles, but if you would like to work with us and have skills you think would be helpful, please send an email describing your areas of interest plus evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
