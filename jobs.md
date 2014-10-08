@@ -1,6 +1,6 @@
 # Nice People Matter: npm is hiring
 
-We are actively hiring for a [Client Executive](/client-executive) role.
+We currently have three open positions including a sales engineer, a devops engineer, and a "dev *"; details are below. If you would like to work with us and have skills you think would be helpful, please send an email specifying which position is most interesting to you, plus evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
 
 We’d like to hear from you.
 
@@ -16,7 +16,33 @@ In addition to helping our enterprise customers directly, npm Enterprise shares 
 
 We are accepting remote candidates for this role, but most of our customers are in the US, so you will have to be comfortable working during US business hours, and precedence will be given to candidates local to our offices in Oakland, California.
 
-### About npm, Inc.
+## DEV *
+
+Developer Advocate? Developer Empowerer? Developer Educator? We couldn't decide which name was best for this role, so we called it Dev * (pronounced "Dev Star").
+
+npm is a product by software developers for software developers, and has millions of active users, with tens of thousands of new users turning up each and every day. To keep up with this explosive growth of our community and keep it growing, we need to make npm (and node.js in general) more accessible, easier to use, and much better documented.
+
+Your job will be to grow the community by making it easier to join and faster to get productive. You'll do that by writing documentation, making tutorial videos, building prototypes and reference implementations, and bringing those out to the world, digitally and in person at conferences, hackathons and meetups. You'll also get feedback from real users and synthesize it into bug reports, feature requests and strategic direction to make our software and services better.
+
+To do that you need to be a clear communicator, an excellent writer, and a willing public speaker. You should be happy learning and explaining complex technical matter, and a good enough developer to write clear examples and demo code. npm is primarily a node.js community, so experience with Node is important.
+
+Because your role requires a lot of face time with every part of the team as well as real-world appearances, our ideal candidate for this role should be close to our offices in Oakland, California.
+
+## DEVOPS ENGINEER
+
+The npm registry serves half a billion downloads every month, with peak traffic over 2000 requests per second. In the last year npm Inc. has got uptime under control (better than 99.9% since April), so now it's time to build out new features without making any sacrifices in this hard-won reliability.
+
+You'll be widening and deepening the feature set of the npm public registry and npm Enterprise. This includes stuff like private modules and support for organizations and teams in the registry itself, as well as awesome new npm website features like collections and ecosystems.
+
+We're looking for an experienced engineer who understands the importance of maintainable code and comprehensive tests, and who values simple, composable services. We expect you to understand modern tools for source control, be comfortable working with a variety of data stores, and be familiar with deployment automation tools and principles.
+
+We expect this role will be about 75% development, 25% operational tasks, so you need to be actively interested in getting operational stuff right, because we take our uptime very seriously.
+
+The majority of your output will be open source code and we actively encourage you to develop and release open-source tooling that helps the broader node.js community; anything that helps node users helps us.
+
+We are accepting remote candidates for this role but will give precedence to candidates who are local to our offices in Oakland, California, or at least in a nearby time zone.
+
+## About npm, Inc.
 
 npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
 
