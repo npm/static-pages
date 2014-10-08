@@ -1,10 +1,20 @@
-## Nice People Matter: npm is hiring
+# Nice People Matter: npm is hiring
 
 We are actively hiring for a [Client Executive](/client-executive) role.
 
-We are not, however, currently hiring for any specific development and operations roles, but if you would like to work with us and have skills you think would be helpful, please send an email describing your areas of interest plus evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
-
 We’d like to hear from you.
+
+## SALES ENGINEER
+
+[npm Enterprise](https://www.npmjs.org/enterprise) is the software that powers the public npm registry, condensed into an easy-to-maintain appliance that runs inside your network. Our customers use it to decrease latency, satisfy stringent legal or security requirements, and to build fully-internal deployment automation.
+
+Interest in npm Enterprise has been enormous and has outstripped our bandwidth to talk to new customers and get them started with the software. We're looking for somebody with a technical background who has moved into a sales role and enjoys being there. Your compensation will include commissions.
+
+You'll be reaching out to new customers, walking them through installations via email, phone, video chats and in-person demos. You'll be helping them debug hitches in their integrations and, when appropriate, turning their problems and requirements into bug reports or feature requests.
+
+In addition to helping our enterprise customers directly, npm Enterprise shares many components with the npm public registry, so your work on those pieces will be open-source and used by millions of people every day.
+
+We are accepting remote candidates for this role, but most of our customers are in the US, so you will have to be comfortable working during US business hours, and precedence will be given to candidates local to our offices in Oakland, California.
 
 ### About npm, Inc.
 
