@@ -1,9 +1,3 @@
-<style>
-h1 {
-color: red;
-}
-</style>
-
 # Nice People Matter: npm is hiring
 
 We currently have three open positions including a sales engineer, a devops engineer, and a "dev *"; details are below. If you would like to work with us and have skills you think would be helpful, please send an email specifying which position is most interesting to you, plus evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
