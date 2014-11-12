@@ -1,3 +1,9 @@
+<style>
+h1 {
+color: red;
+}
+</style>
+
 # Nice People Matter: npm is hiring
 
 We currently have three open positions including a sales engineer, a devops engineer, and a "dev *"; details are below. If you would like to work with us and have skills you think would be helpful, please send an email specifying which position is most interesting to you, plus evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
@@ -27,20 +33,6 @@ Your job will be to grow the community by making it easier to join and faster to
 To do that you need to be a clear communicator, an excellent writer, and a willing public speaker. You should be happy learning and explaining complex technical matter, and a good enough developer to write clear examples and demo code. npm is primarily a node.js community, so experience with Node is important.
 
 Because your role requires a lot of face time with every part of the team as well as real-world appearances, our ideal candidate for this role should be close to our offices in Oakland, California.
-
-## DEVOPS ENGINEER
-
-The npm registry serves half a billion downloads every month, with peak traffic over 2000 requests per second. In the last year npm Inc. has got uptime under control (better than 99.9% since April), so now it's time to build out new features without making any sacrifices in this hard-won reliability.
-
-You'll be widening and deepening the feature set of the npm public registry and npm Enterprise. This includes stuff like private modules and support for organizations and teams in the registry itself, as well as awesome new npm website features like collections and ecosystems.
-
-We're looking for an experienced engineer who understands the importance of maintainable code and comprehensive tests, and who values simple, composable services. We expect you to understand modern tools for source control, be comfortable working with a variety of data stores, and be familiar with deployment automation tools and principles.
-
-We expect this role will be about 75% development, 25% operational tasks, so you need to be actively interested in getting operational stuff right, because we take our uptime very seriously.
-
-The majority of your output will be open source code and we actively encourage you to develop and release open-source tooling that helps the broader node.js community; anything that helps node users helps us.
-
-We are accepting remote candidates for this role but will give precedence to candidates who are local to our offices in Oakland, California, or at least in a nearby time zone.
 
 ## About npm, Inc.
 
