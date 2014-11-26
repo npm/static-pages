@@ -46,12 +46,7 @@ If you would like early access to the beta of npm Private Modules, you can sign 
 when they are available.
 
 <script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
-<script>
-  hbspt.forms.create({ 
-    portalId: '419727',
-    formId: 'd9ba17d5-606e-456d-a703-733c67f5e708'
-  });
-</script>
+<script src="/static/js/private-npm-beta.js"></script>
 
 (We will not use this email address to do anything other than notify you of 
 the beta of npm Private Modules, and when private packages become globally available)
