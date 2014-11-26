@@ -2,7 +2,7 @@
 
 npm is lots of things.
 
-* npm is the official package manager for [Node.js](http://nodejs.org/).  It was created in 2009 by Isaac Schlueter as an [open source project](https://github.com/npm/npm) to help JavaScript developers share modules (aka packages) of code in a very easy and efficient way.
+* npm is the official package manager for [Node.js](http://nodejs.org/).  It was created in 2009 as an [open source project](https://github.com/npm/npm) to help JavaScript developers share modules (aka packages) of code in a very easy and efficient way.
 * npm is a community of developers who share and use JavaScript packages in Node.js and other places people use JavaScript, like [front-end web apps](http://www.ember-cli.com/) and [mobile apps](http://cordova.apache.org/) and [robots](https://tessel.io/) and [routers](https://linerate.f5.com/).
 * The npm Registry is a public collection of packages of open-source code written by the JavaScript community.
 * npm is the command line client that allows developers to install and publish those JavaScript packages.
@@ -10,7 +10,7 @@ npm is lots of things.
 
 # About npm, Inc.
 
-npm, Inc. is a company co-founded by npm's creator, Isaac Schlueter, along with Laurie Voss and Rod Boothby.
+npm, Inc. is a company co-founded in 2014 by npm's creator, Isaac Schlueter, along with Laurie Voss and Rod Boothby.
 
 npm, Inc. is dedicated to the long term success of the JavaScript community, which includes the success of the open-source Node.js and npm projects.
 
