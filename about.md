@@ -2,17 +2,23 @@
 
 npm is lots of things.
 
-npm is the official package manager for [Node.js](http://nodejs.org/).
-
-npm is a community of developers who share and use JavaScript packages in Node.js and other places people use JavaScript, like [front-end web apps](http://www.ember-cli.com/) and [mobile apps](http://cordova.apache.org/) and [robots](https://tessel.io/) and [routers](https://linerate.f5.com/).
-
-The npm Registry is the public collection of packages of open-source JavaScript code built by that community.
-
-npm is the command line client that allows developers to install and publish those JavaScript packages.
-
-npm, Inc. is a company that hosts and maintains all of the above.
+* npm is the official package manager for [Node.js](http://nodejs.org/).  It was created in 2009 by Isaac Schlueter as an [open source project](https://github.com/npm/npm) to help JavaScript developers share modules (aka packages) of code in a very easy and efficient way.
+* npm is a community of developers who share and use JavaScript packages in Node.js and other places people use JavaScript, like [front-end web apps](http://www.ember-cli.com/) and [mobile apps](http://cordova.apache.org/) and [robots](https://tessel.io/) and [routers](https://linerate.f5.com/).
+* The npm Registry is a public collection of packages of open-source code written by the JavaScript community.
+* npm is the command line client that allows developers to install and publish those JavaScript packages.
+* npm, Inc. is a company that hosts and maintains all of the above.
 
 # About npm, Inc.
+
+npm, Inc. is a company co-founded by npm's creator, Isaac Schlueter, along with Laurie Voss and Rod Boothby.
+
+npm, Inc. is dedicated to the long term success of the JavaScript community, which includes the success of the open-source Node.js and npm projects.
+
+At npm, Inc. we do three things to support this goal:
+
+1. Run the open source registry as a free service.
+2. Build tools and operate services that support the secure use of packages in a private or enterprise context.
+3. Build innovative new tools and services for the developer community.
 
 npm’s mission is to take Open Source development to entirely new places. When everyone else is adding force, we work to reduce friction.
 
