@@ -1,13 +1,12 @@
 <hgroup>
-<h1>Private npm packages</h1>
+<h1>npm Private Modules</h1>
 <h2>Publish, share and install proprietary code easily</h2>
 </hgroup>
 
 ## Introducing private packages
 
-Scoped packages are ordinary npm packages that only you, and people you select,
-can view, install, and publish. You publish them under the name of your npm 
-user or organization, just by giving them a name in package.json:
+Private packages are ordinary npm packages that only you, and people you select,
+can view, install, and publish. You publish them in your namespace or your team's namespace, just by giving them a name in package.json:
 
 <code>
 {
