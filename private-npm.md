@@ -5,7 +5,7 @@
 
 ## Introducing private packages
 
-Private packages are ordinary npm packages that only you, and people you select,
+Private modules are ordinary npm packages that only you, and people you select,
 can view, install, and publish. You publish them in your namespace or your team's namespace, just by giving them a name in package.json:
 
 <code>
@@ -42,8 +42,9 @@ private packages make this easy.
 
 ## Coming soon
 
-Private packages are coming in early 2015. If you would like early access to the 
-beta of private packages, you can sign up right now and we'll let you know
+npm Private Modules are coming in early 2015. 
+
+If you would like early access to the beta of npm Private Modules, you can sign up right now and we'll let you know
 when they are available.
 
 <script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
@@ -55,4 +56,4 @@ when they are available.
 </script>
 
 (We will not use this email address to do anything other than notify you of 
-the beta of private packages, and when private packages become globally available)
+the beta of npm Private Modules, and when private packages become globally available)
