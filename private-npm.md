@@ -46,7 +46,7 @@ If you would like early access to the beta of npm Private Modules, you can sign 
 when they are available.
 
 <script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
-<script src="/static/js/private-npm-beta.js"></script>
+<div id="private-module-signup-form"></div>
 
 (We will not use this email address to do anything other than notify you of 
 the beta of npm Private Modules, and when private packages become globally available)
