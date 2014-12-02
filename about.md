@@ -1,4 +1,4 @@
-## About npm
+# About npm
 
 npm is lots of things.
 
