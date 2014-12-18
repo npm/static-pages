@@ -1,6 +1,6 @@
 # Nice People Matter: npm is hiring
 
-We are not currently hiring for any specific positions. If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
+We currently are looking for interns to join us in summer 2015. Even if that's not what you're looking for, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
 
 We’d like to hear from you.
 
@@ -16,7 +16,7 @@ Last year's intern, [Faiq](https://twitter.com/faiqus) wrote about [what he lear
 
 > Something something something from Faiq TBD.
 
-Please include the word "internship" in your subject line if applying for this position. The internship is based out of our offices in Oakland, California. You must be part of the graduating class of 2016 or 2017 and legally able to work in the United States; we are not currently able to sponsor visa applications.
+If you're interested, please send a brief email introducing yourself as well as a PDF or Google doc of your resume to [jobs@npmjs.com](mailto:jobs@npmjs.com) and include the word "internship" in your subject line. The internship is based out of our offices in Oakland, California. You must be part of the graduating class of 2016 or 2017 and legally able to work in the United States; we are not currently able to sponsor visa applications.
 
 
 ## About npm, Inc.
