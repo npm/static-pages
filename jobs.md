@@ -4,6 +4,21 @@ We are not currently hiring for any specific positions. If you would like to wor
 
 We’d like to hear from you.
 
+## Internships
+
+If you're currently in full-time education (class of 2016 or 2017) and looking for a summer internship with an open-source project that can also pay you, we're happy to say that we can offer you a place at npm in partnership with our investors, as part of the [True Entrepreneur Corps](http://www.trueventures.com/tec/) program.
+
+We are looking primarily for enthusiasm and intellectual curiosity, but any experience with JavaScript and especially Node.js is obviously a big advantage.
+
+You'll be working on the open-source npm project itself, so your work will be code-reviewed by the same people who run the project, your commits will immediately benefit tens of thousands of active users, and will also be publicly verifiable by future employers.
+
+Last year's intern, [Faiq](https://twitter.com/faiqus) wrote about [what he learned](http://www.trueventurestec.com/2014/06/26/some-useful-info-for-tech-interns/) on TEC's blog and also had this to say:
+
+> Something something something from Faiq TBD.
+
+Please include the word "internship" in your subject line if applying for this position. The internship is based out of our offices in Oakland, California. You must be part of the graduating class of 2016 or 2017 and legally able to work in the United States; we are not currently able to sponsor visa applications.
+
+
 ## About npm, Inc.
 
 npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
