@@ -12,7 +12,7 @@ We are looking primarily for enthusiasm and intellectual curiosity, but any expe
 
 You'll be working on the open-source npm project itself, so your work will be code-reviewed by the same people who run the project, your commits will immediately benefit tens of thousands of active users, and will also be publicly verifiable by future employers.
 
-Last year's intern, [Faiq](https://twitter.com/faiqus) wrote about [what he learned](http://www.trueventurestec.com/2014/06/26/some-useful-info-for-tech-interns/) on TEC's blog and also had this to say:
+Last year's intern, [Faiq](https://twitter.com/faiqus), wrote about [what he learned](http://www.trueventurestec.com/2014/06/26/some-useful-info-for-tech-interns/) on TEC's blog and also had this to say:
 
 > Imagine working at a place with some of the best and kindest engineers, getting paid to write open source code, and being immersed in one of the most diverse developer communities ever. It sounds too good to be true, doesn't it? When you get a chance to work at npm, you'll be doing exactly that. Day to day, you'll get to work on challenging problems that push your limits as an engineer. You'll run into problems that'll seem impossible at first, but by the end of your internship will seem like a piece of cake! This internship is one of the most unique opportunities you'll get, so definitely give it a shot and apply!
 
