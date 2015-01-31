@@ -24,7 +24,7 @@
 
 </form>
 
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 
 <p>
   Did you miss one? Check out the <a href="http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778" title="View previous campaigns">npm weekly archive</a>.
