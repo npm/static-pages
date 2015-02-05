@@ -19,7 +19,7 @@ The majority of your output will be open source code and we actively encourage y
 We are accepting remote candidates for this role but will give precedence to candidates who are local to our offices in Oakland, California, or at least in a nearby time zone.
 
 
-# Support Tech
+## Support Tech
 
 npm has more than 3 million users worldwide and that number is growing fast. Their use-cases are incredibly diverse: from systems administrators writing automation tools, to hobbyists building robots, to back-end engineers building mobile app APIs, to millions of front-end developers.
 
