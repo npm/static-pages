@@ -1,6 +1,6 @@
 <hgroup>
   <h1>nice people matter</h1>
-  <h2>npm is hiring</h2>
+  <h2>npm is hiring and internshipping</h2>
 </hgroup>
 
 We are currently looking for interns to join us in summer 2015. Even if that's not what you're looking for, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to jobs@npmjs.com.
