@@ -11,7 +11,7 @@ We’d like to hear from you.
 
 ## VP of Marketing
 
-The npm service supports a massive community of over 2 million developers who use our platform to share and reuse packages of Javascript code.  Our users depend on npm to help them build solutions for thousands of the largest companies in the world.   Best of all, npm is growing exponentially.   
+The npm service supports a massive community of over 2 million developers who use our platform to share and reuse Javascript code.  Our users depend on npm to help them build solutions for thousands of the largest companies in the world.   Best of all, npm is growing exponentially.   
 
 npm, Inc is looking for an experienced senior leader to help the company build a high-velocity, low-touch marketing and self-service sales engine that solves problems for millions of developers who rely on npm to get their jobs done.
 
