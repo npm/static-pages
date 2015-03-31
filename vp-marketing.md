@@ -1,4 +1,7 @@
-## npm is hiring
+<hgroup>
+  <h1>nice people matter</h1>
+  <h2>npm is hiring</h2>
+</hgroup>
 
 We are currently looking for a VP of Marketing. 
 
