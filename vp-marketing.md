@@ -1,12 +1,12 @@
-##npm is hiring
+## npm is hiring
 
 We are currently looking for a VP of Marketing. 
 
-If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to hiring@npmjs.com.
+If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
 We’d like to hear from you.
 
-##VP of Marketing
+## VP of Marketing
 
 The npm service supports a massive community of over 2 million developers who use our platform to share and reuse packages of Javascript code.  Our users depend on npm to help them build solutions for thousands of the largest companies in the world.   Best of all, npm is growing exponentially.   
 
@@ -28,7 +28,7 @@ What will make this fun is that npm already has 2 million passionate users.   Th
 
 
 
-##About npm, Inc.
+## About npm, Inc.
 npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
 
 npm’s mission is to take Open Source development to entirely new places. When everyone else is adding force, we work to reduce friction.
@@ -37,4 +37,4 @@ npm is not a typical product, and we are not a typical early-stage “work hard/
 
 Our offices are in downtown Oakland, California. We offer very competitive salaries, meaningful equity, and generous health, dental and vision benefits. We love it when you represent us at conferences.
 
-If you are interested, please email us at hiring@npmjs.com
+If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs.com)
