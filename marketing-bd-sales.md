@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for a VP of Marketing. 
+We are currently looking for a [VP of Marketing](#vp-of-marketing) and a Senior Manager of Marketing Operations.
 
 If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
