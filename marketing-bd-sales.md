@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for a [VP of Marketing](#vp-of-marketing) and a [Senior Manager of Marketing Operations](#senior-manager-of-marketing-operations).
+We are currently looking for a [VP of Marketing](#vp-of-marketing) and a [Senior Manager of Marketing Operations](#Senior-Marketing-Operations-Manager).
 
 If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
@@ -32,7 +32,7 @@ What will make this fun is that npm already has 2 million passionate users.   Th
 
 If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs.com)
 
-## Senior Manager of Marketing Operations
+## Senior Marketing Operations Manager
 
 The npm service supports a massive community of over 2 million developers who use our platform to share and reuse Javascript code.  Our users depend on npm to help them build solutions for thousands of the largest companies in the world.   Best of all, npm is growing exponentially.   
 
