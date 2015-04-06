@@ -3,7 +3,16 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for a www Engineer, a Registry Engineer and a Support Tech. Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
+In **Engineering**, we are currently looking for:
+* [www Engineer](#www-engineer)
+* [Registry Engineer](#registry-engineer)
+* [Support Tech](#support-tech)
+
+In **Marketing & Revenue Growth**, we are looking for:
+* [VP of Marketing](https://www.npmjs.com/marketing-bd-sales#vp-of-marketing)
+* [Senior Manager of Marketing Operations](https://www.npmjs.com/marketing-bd-sales#senior-marketing-operations-manager)
+
+Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
 We’d like to hear from you.
 
