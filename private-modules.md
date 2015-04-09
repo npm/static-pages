@@ -1,53 +1,58 @@
 <hgroup>
-<h1>npm Private Modules</h1>
-<h2>Publish, share and install proprietary code easily</h2>
+<h1>npm Private Modules</h1>  
 </hgroup>
 
-Private modules are ordinary npm packages that only you, and people you select,
-can view, install, and publish. You publish them in your namespace or your team's namespace, just by giving them a name in package.json:
+When you pay for private modules, you can:
 
-```json
-{
-  "name": "@myuser/mypackage"
-}
-```
+- Host as many private packages as you want
+- Give read access or read-write access for those packages to any other paid user
+- Download any packages that other paid users have given you read access to
+- Collaborate on any packages that other paid users have given you write access to
 
-You publish them with `npm publish`, just like any other package, and you install
-them by name:
+<button>Sign up now</button>
 
-```sh
-npm install @myuser/mypackage
-```
+## Scopes
 
-Once installed, use them by requiring them by name, just like any package:
+All private packages are scoped. Your paid access applies to your scope, which is your username with an `@` in front.
 
-```js
-var mypackage = require('@myuser/mypackage');
-```
+`@your-name/package`
 
-## Re-use your code
+Read more about [scopes](@LINK).
 
-You re-use code between projects. npm and the registry make it really easy to
-share small modules of useful code with the world. But sometimes the code in that
-package is private, or sensitive, or just too specific to your needs for you to
-want to publish it to the public registry. Private packages are great for this.
+## Making a package private
 
-## Share proprietary code
+All scoped packages default to restricted access. This ensures that you don't make something public by accident.
 
-You work in a team, or you work for clients. You want to be able to easily share
-your work, with the dependency management and version management that npm provides.
-By making it easy and granular to select who can see, install and publish packages,
-private packages make this easy.
+If you have a public scoped package, you can change the access via the web site.
 
-## Coming soon
+gif goes here
 
-npm Private Modules are coming in early 2015.
+You can also change it via the command line using `npm access restricted <package_name>`.
 
-If you would like early access to the beta of npm Private Modules, you can sign up right now and we'll let you know
-when they are available.
+gif goes here
 
-<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
-<div id="private-module-signup-form"></div>
+The package will be removed from listings on the site within 1 minute of making it private.
 
-(We will not use this email address to do anything other than notify you of
-the beta of npm Private Modules, and when private packages become globally available)
+Learn more about [package access](@LINK).
+
+## Adding collaborators to a project
+
+You can add collaborators to your project from the package page.
+
+gif goes here
+
+You can also use `npm owner add`
+
+New collaborators will be given read-write access by default.
+
+## Changing collaborator access
+
+If you want to give a user read access only, change their access on the package page.
+
+gif goes here
+
+You can also remove collaborators.
+
+## Organizations
+
+Currently, private packages are only available for individual users, but support for organization accounts is coming soon. Feel free to create a user for your organization in the meantime, and we can upgrade it to an organization when support is here.
