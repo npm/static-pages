@@ -6,52 +6,54 @@ When you pay for private modules, you can:
 
 - Host as many private packages as you want
 - Give read access or read-write access for those packages to any other paid user
-- Download any packages that other paid users have given you read access to
+- Install and use any packages that other paid users have given you read access to
 - Collaborate on any packages that other paid users have given you write access to
 
-<button>Sign up now</button>
+<a class="button" href="https://www.npmjs.com/settings/billing">sign up</a>
 
 ## Scopes
 
 All private packages are scoped. Your paid access applies to your scope, which is your username with an `@` in front.
 
-`@your-name/package`
+`@username/project-name`
 
-Read more about [scopes](@LINK).
+Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages).
 
-## Making a package private
+## Access
 
-All scoped packages default to restricted access. This ensures that you don't make something public by accident.
+The access page gives you control over access to your package. To get to it, go to your package page at `https://www.npmjs.com/package/@username/your-package/access`, or click on the Collaborators link on the package page.
 
-If you have a public scoped package, you can change the access via the web site.
+![](http://npmblog-images.surge.sh/static-pages/collaborators-page.png)
 
-gif goes here
+### Making a package private
+
+All scoped packages default to restricted access. This ensures that you don't make something public by accident. You can change this on the access page.
+
+![](http://npmblog-images.surge.sh/static-pages/make-private-ui.gif)
 
 You can also change it via the command line using `npm access restricted <package_name>`.
 
-gif goes here
-
-The package will be removed from listings on the site within 1 minute of making it private.
+The package will be removed from listings on the site within a few minutes of making it private.
 
 Learn more about [package access](@LINK).
 
-## Adding collaborators to a project
+### Adding collaborators to a project
 
-You can add collaborators to your project from the package page.
+You can add collaborators to your project.
 
-gif goes here
+![](http://npmblog-images.surge.sh/static-pages/add-collaborator.gif)
 
-You can also use `npm owner add`
+You can also use `npm owner add <user> <package name>`.
 
-New collaborators will be given read-write access by default.
+When you add a collaborator through the web site, the collaborator will be given read-only access. When you add a collaborator through the command line, they will be given read-write access.
 
-## Changing collaborator access
+### Changing collaborator access
 
-If you want to give a user read access only, change their access on the package page.
+If you want to give a user write access, change their access on the package page by clicking on `read-write`. You can also remove collaborators by clicking on the X.
 
-gif goes here
+## Logging in
 
-You can also remove collaborators.
+When you try to install a package from the CLI, you might get an access error. You will need to run `npm login` once to update your `~/.npmrc` file before working with private packages.
 
 ## Organizations
 
