@@ -45,7 +45,7 @@ You can add collaborators to your project.
 
 You can also use `npm owner add <user> <package name>`.
 
-When you add a collaborator to a private package through the web site, the collaborator will be given read-only access. When you add a collaborator through the command line, they will be given read-write access.
+When you add a collaborator to a private package through the web site, the collaborator will be given read-only access. If you add a collaborator to a private package via the command line, the collaborator will be given read-write access. Collaborators will also have read-write access for any non-private packages.
 
 ### Changing collaborator access
 
