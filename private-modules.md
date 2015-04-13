@@ -31,7 +31,7 @@ All scoped packages default to restricted access. This ensures that you don't ma
 
 ![](http://npmblog-images.surge.sh/static-pages/make-private-ui.gif)
 
-You can also change it via the command line using `npm access restricted <package_name>`.
+You can also change package access via the command line using `npm access restricted <package_name>`.
 
 The package will be removed from listings on the site within a few minutes of making it private.
 
