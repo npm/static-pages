@@ -45,8 +45,6 @@ npm access restricted <package_name>
 
 The package will be removed from listings on the site within a few minutes of making it private.
 
-Learn more about [package access](@LINK).
-
 ### Adding collaborators to a project
 
 You can now add collaborators to your project on the website. The new interface is available for
