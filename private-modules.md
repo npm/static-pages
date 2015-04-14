@@ -1,5 +1,5 @@
 <hgroup>
-<h1>npm Private Modules</h1>  
+<h1>npm Private Modules</h1>
 </hgroup>
 
 When you pay for private modules, you can:
@@ -15,7 +15,9 @@ When you pay for private modules, you can:
 
 All private packages are scoped. Your paid access applies to your scope, which is your username with an `@` in front.
 
-`@username/project-name`
+```
+@username/project-name
+````
 
 Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages).
 
@@ -23,15 +25,23 @@ Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages)
 
 The access page gives you control over access to your package. To get to it, go to your package page at `https://www.npmjs.com/package/@username/your-package/access`, or click on the Collaborators link on the package page.
 
-![](http://npmblog-images.surge.sh/static-pages/collaborators-page.png)
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/collaborators-page.png" class="bordered">
+</p>
 
 ### Making a package private
 
 All scoped packages default to restricted access. This ensures that you don't make something public by accident. You can change this on the access page.
 
-![](http://npmblog-images.surge.sh/static-pages/make-private-ui.gif)
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/make-private-ui.gif" class="bordered">
+</p>
 
-You can also change package access via the command line using `npm access restricted <package_name>`.
+You can also manage package access via the command:
+
+```sh
+npm access restricted <package_name>
+```
 
 The package will be removed from listings on the site within a few minutes of making it private.
 
@@ -39,21 +49,27 @@ Learn more about [package access](@LINK).
 
 ### Adding collaborators to a project
 
-You can add collaborators to your project.
+You can now add collaborators to your project on the website. The new interface is available for
+private modules as well as existing unscoped modules.
 
-![](http://npmblog-images.surge.sh/static-pages/add-collaborator.gif)
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/add-collaborator.gif" class="bordered">
+</p>
 
-You can also use `npm owner add <user> <package name>`.
+You can also add collaborators on the command line:
 
-When you add a collaborator to a private package through the web site, the collaborator will be given read-only access. If you add a collaborator to a private package via the command line, the collaborator will be given read-write access. Collaborators will also have read-write access for any non-private packages.
+```sh
+npm owner add <user> <package name>
+```
 
 ### Changing collaborator access
 
 If you want to give a user write access, change their access on the package page by clicking on `read-write`. You can also remove collaborators by clicking on the X.
 
+
 ## Logging in
 
-When you try to install a package from the CLI, you might get an access error. You will need to run `npm login` once to update your `~/.npmrc` file before working with private packages.
+When you try to install a private package from the CLI, you might get an access error. You will need to run `npm login` once to update your `~/.npmrc` file before working with private packages.
 
 ## Organizations
 
