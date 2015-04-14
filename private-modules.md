@@ -3,51 +3,65 @@
 <h2>Publish, share and install proprietary code easily</h2>
 </hgroup>
 
-Private modules are ordinary npm packages that only you, and people you select,
-can view, install, and publish. You publish them in your namespace or your team's namespace, just by giving them a name in package.json:
+<hgroup>
+<h1>npm Private Modules</h1>  
+</hgroup>
 
-```json
-{
-  "name": "@myuser/mypackage"
-}
-```
+When you pay for private modules, you can:
 
-You publish them with `npm publish`, just like any other package, and you install
-them by name:
+- Host as many private packages as you want
+- Give read access or read-write access for those packages to any other paid user
+- Install and use any packages that other paid users have given you read access to
+- Collaborate on any packages that other paid users have given you write access to
 
-```sh
-npm install @myuser/mypackage
-```
+<a data-event-trigger="click" data-event-name=“billing-via-private-modules-page" class="button" href="https://www.npmjs.com/settings/billing">sign up</a>
 
-Once installed, use them by requiring them by name, just like any package:
+## Scopes
 
-```js
-var mypackage = require('@myuser/mypackage');
-```
+All private packages are scoped. Your paid access applies to your scope, which is your username with an `@` in front.
 
-## Re-use your code
+`@username/project-name`
 
-You re-use code between projects. npm and the registry make it really easy to
-share small modules of useful code with the world. But sometimes the code in that
-package is private, or sensitive, or just too specific to your needs for you to
-want to publish it to the public registry. Private packages are great for this.
+Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages).
 
-## Share proprietary code
+## Access
 
-You work in a team, or you work for clients. You want to be able to easily share
-your work, with the dependency management and version management that npm provides.
-By making it easy and granular to select who can see, install and publish packages,
-private packages make this easy.
+The access page gives you control over access to your package. To get to it, go to your package page at `https://www.npmjs.com/package/@username/your-package/access`, or click on the Collaborators link on the package page.
 
-## Coming soon
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/collaborators-page.png">
+</p>
 
-npm Private Modules are coming in early 2015.
+### Making a package private
 
-If you would like early access to the beta of npm Private Modules, you can sign up right now and we'll let you know
-when they are available.
+All scoped packages default to restricted access. This ensures that you don't make something public by accident. You can change this on the access page.
 
-<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
-<div id="private-module-signup-form"></div>
+![](http://npmblog-images.surge.sh/static-pages/make-private-ui.gif)
 
-(We will not use this email address to do anything other than notify you of
-the beta of npm Private Modules, and when private packages become globally available)
+You can also change package access via the command line using `npm access restricted <package_name>`.
+
+The package will be removed from listings on the site within a few minutes of making it private.
+
+Learn more about [package access](@LINK).
+
+### Adding collaborators to a project
+
+You can add collaborators to your project.
+
+![](http://npmblog-images.surge.sh/static-pages/add-collaborator.gif)
+
+You can also use `npm owner add <user> <package name>`.
+
+When you add a collaborator to a private package through the web site, the collaborator will be given read-only access. If you add a collaborator to a private package via the command line, the collaborator will be given read-write access. Collaborators will also have read-write access for any non-private packages.
+
+### Changing collaborator access
+
+If you want to give a user write access, change their access on the package page by clicking on `read-write`. You can also remove collaborators by clicking on the X.
+
+## Logging in
+
+When you try to install a package from the CLI, you might get an access error. You will need to run `npm login` once to update your `~/.npmrc` file before working with private packages.
+
+## Organizations
+
+Currently, private packages are only available for individual users, but support for organization accounts is coming soon. Feel free to create a user for your organization in the meantime, and we can upgrade it to an organization when support is here.
