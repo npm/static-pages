@@ -1,53 +1,76 @@
 <hgroup>
 <h1>npm Private Modules</h1>
-<h2>Publish, share and install proprietary code easily</h2>
 </hgroup>
 
-Private modules are ordinary npm packages that only you, and people you select,
-can view, install, and publish. You publish them in your namespace or your team's namespace, just by giving them a name in package.json:
+When you pay for private modules, you can:
 
-```json
-{
-  "name": "@myuser/mypackage"
-}
+- Host as many private packages as you want
+- Give read access or read-write access for those packages to any other paid user
+- Install and use any packages that other paid users have given you read access to
+- Collaborate on any packages that other paid users have given you write access to
+
+<a data-event-trigger="click" data-event-name="billing-via-private-modules-page" class="button" href="https://www.npmjs.com/settings/billing">sign up</a>
+
+## Scopes
+
+All private packages are scoped. Your paid access applies to your scope, which is your username with an `@` in front.
+
 ```
+@username/project-name
+````
 
-You publish them with `npm publish`, just like any other package, and you install
-them by name:
+Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages).
+
+## Access
+
+The access page gives you control over access to your package. To get to it, go to your package page at `https://www.npmjs.com/package/@username/your-package/access`, or click on the Collaborators link on the package page.
+
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/collaborators-page.png" class="bordered">
+</p>
+
+### Making a package private
+
+All scoped packages default to restricted access. This ensures that you don't make something public by accident. You can change this on the access page.
+
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/make-private-ui.gif" class="bordered">
+</p>
+
+You can also manage package access via the command:
 
 ```sh
-npm install @myuser/mypackage
+npm access restricted <package_name>
 ```
 
-Once installed, use them by requiring them by name, just like any package:
+The package will be removed from listings on the site within a few minutes of making it private.
 
-```js
-var mypackage = require('@myuser/mypackage');
+Learn more about [package access](@LINK).
+
+### Adding collaborators to a project
+
+You can now add collaborators to your project on the website. The new interface is available for
+private modules as well as existing unscoped modules.
+
+<p class="centered">
+  <img src="http://npmblog-images.surge.sh/static-pages/add-collaborator.gif" class="bordered">
+</p>
+
+You can also add collaborators on the command line:
+
+```sh
+npm owner add <user> <package name>
 ```
 
-## Re-use your code
+### Changing collaborator access
 
-You re-use code between projects. npm and the registry make it really easy to
-share small modules of useful code with the world. But sometimes the code in that
-package is private, or sensitive, or just too specific to your needs for you to
-want to publish it to the public registry. Private packages are great for this.
+If you want to give a user write access, change their access on the package page by clicking on `read-write`. You can also remove collaborators by clicking on the X.
 
-## Share proprietary code
 
-You work in a team, or you work for clients. You want to be able to easily share
-your work, with the dependency management and version management that npm provides.
-By making it easy and granular to select who can see, install and publish packages,
-private packages make this easy.
+## Logging in
 
-## Coming soon
+When you try to install a private package from the CLI, you might get an access error. You will need to run `npm login` once to update your `~/.npmrc` file before working with private packages.
 
-npm Private Modules are coming in early 2015.
+## Organizations
 
-If you would like early access to the beta of npm Private Modules, you can sign up right now and we'll let you know
-when they are available.
-
-<script charset="utf-8" src="//js.hsforms.net/forms/current.js"></script>
-<div id="private-module-signup-form"></div>
-
-(We will not use this email address to do anything other than notify you of
-the beta of npm Private Modules, and when private packages become globally available)
+Currently, private packages are only available for individual users, but support for organization accounts is coming soon. Feel free to create a user for your organization in the meantime, and we can upgrade it to an organization when support is here.
