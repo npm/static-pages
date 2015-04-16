@@ -4,7 +4,7 @@
 </hgroup>
 
 In **Engineering**, we are currently looking for:
-* [CLI Engineer](#cli-engineer)
+* [Engineer, CLI team](#engineer-cli-team)
 * [Support Tech](#support-tech)
 
 In **Marketing & Revenue Growth**, we are looking for:
@@ -16,7 +16,7 @@ Even if none of those is what you're interested in, if you would like to work wi
 We’d like to hear from you.
 
 
-## CLI engineer
+## Engineer, CLI team
 
 Developers keep finding new ways to use Node, JavaScript, and npm: instead of just being a package manager for Node, npm is a tool in the web developer's toolbox – or a tool to support building out hardware projects – or a tool to help framework developers build out their own ecosystems. The npm command-line interface (CLI) is many developers' primary interface to the JavaScript universe. Your job will be to work with us to make it better.
 
