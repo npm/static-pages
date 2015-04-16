@@ -16,19 +16,22 @@ Even if none of those is what you're interested in, if you would like to work wi
 We’d like to hear from you.
 
 
-## www Engineer
+## CLI engineer
 
-The site you're looking at right now has come a long way. In the last 10 months our hard-working www team has re-written it into [a whole new codebase](https://github.com/npm/newww), refactoring old code, implementing a brilliant new design, and adding a bunch of new features that are going to be released annnnny moment now in support of [private modules](/private-modules). 
+Developers keep finding new ways to use Node, JavaScript, and npm: instead of just being a package manager for Node, npm is a tool in the web developer's toolbox – or a tool to support building out hardware projects – or a tool to help framework developers build out their own ecosystems. The npm command-line interface (CLI) is many developers' primary interface to the JavaScript universe. Your job will be to work with us to make it better.
 
-We get well over 5MM page views every month, and we're just getting started. The next 12 months will see us building features that have long been [on our roadmap](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this) like curation tools, package ecosystems, ever-improving search, interactive tutorials for new users, better package management, and access control systems for users, organizations and teams.
+Developers want npm to be easy to use, flexible enough to solve their problems with web and back-end development, and fast enough to stay out of their way. It's a big open-source project, and npm, Inc. has the good fortune to have not only a team of developers dedicated to maintaining it, but a lively and engaged community of contributors who help with everything, from support and documentation all the way through feature development.
 
-As you can see, there's a lot to do, and we're going to need a lot of help to do it. You'll be joining our existing team of two www engineers, which will be growing to a total of five plus a full-time designer in 2015. More people means more focus, and juicier features for you to work on.
+Work on the CLI mostly happens in the open, and working on it is a great way to get paid to work as part of a thriving open-source community. The team [helps contributors get their patches merged](https://github.com/npm/npm/wiki/code-review-process) as well as working with the other teams at npm to support the rollout of new features on the registry and web site. There's never a shortage of things to do, but because there's a new CLI release [every week](https://github.com/npm/npm/wiki/Release-Process), the emphasis is on steady progress and shipping things when they're ready.
 
-As a www engineer, you'll be focusing less on the visual aspects of the site and more on its functionality. You'll be working closely with the registry team to define and integrate new APIs in order to implement new user-facing features, while always keeping in mind the principles of performance, scalability and security.
+A typical week can include:
+* helping users troubleshoot problems with npm in their development environments
+* working on new features in the CLI
+* reworking the CLI's internals to be easier to understand and maintain
+* keeping other projects (Node.js, io.js, ember-cli, Angular) up to date on npm's progress
+* walking users through their use cases and requirements and using that to figure out [which problems the CLI needs to tackle next](https://github.com/npm/npm/wiki/Roadmap).
 
-We're looking for somebody who is experienced enough to have a strong sense of best practices and good architectural instincts, to keep the code base clean and maintainable as our feature set continues to expand. Your code will be open source, so you'll get help from the community, as well as a voice in establishing the best practices for modern web development in node.js.
-
-We prefer candidates who are local to our offices in downtown Oakland, California, but are open to remote work for the right candidate. We cannot currently sponsor new work visas, though we can transfer existing H1-Bs, and TN-1s for Canadians.
+It's incredibly rewarding and never boring. Almost every day you'll have an opportunity to make at least one npm user's life better, and improve the product as a whole in the bargain. Software development, release management, product management, developer support and evangelism, community management, and more are all parts of what we do from day to day. As we grow the team, we're looking to add people who want to take ownership of some of these roles, and who are versatile enough to find most of them interesting. npm is only going to get more important to web development over time, and this is a great opportunity to get paid to work on something that's useful to a whole lot of people.
 
 
 ## Support Tech
