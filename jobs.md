@@ -4,7 +4,7 @@
 </hgroup>
 
 In **Engineering**, we are currently looking for:
-* [CLI Engineer](#CLI-engineer)
+* [CLI Engineer](#cli-engineer)
 * [Support Tech](#support-tech)
 
 In **Marketing & Revenue Growth**, we are looking for:
