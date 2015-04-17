@@ -40,7 +40,7 @@ npm, Inc is looking for a marketing operations expert to help the company build 
 
 We are looking for someone who will take responsibility for setting-up and managing a suite of marketing automation tools such as Hubspot, Kissmetrics and Google Analytics.   
 
-Your responsibilities will include SEO and SEM.  Because npm already has over 2 million open source users, you’ll likely focus most of your attention on the experience users as they learn about and then hopefully purchase our privacy and security solutions.   We are very interested in learning how to optimize that experience.  What drip campaigns work?   What questions are customers asking?  Where are they getting confused?   How can we improve the product, the web site, documentation or the communications we send customers to help improve adoption?
+Your responsibilities will include SEO and SEM.  Because npm already has over 2 million open source users, you’ll likely focus most of your attention on the experience of users as they learn about and then hopefully purchase our privacy and security solutions.   We are very interested in learning how to optimize that experience.  What drip campaigns work?   What questions are customers asking?  Where are they getting confused?   How can we improve the product, the web site, documentation or the communications we send customers to help improve adoption?
 
 You’ll work with many parts of the organization, including Developer Relations, Support, the Sales team and provide customer and data based feedback and input to Product and Engineering.
 
