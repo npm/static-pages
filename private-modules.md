@@ -27,7 +27,7 @@ Read more about [scopes](https://docs.npmjs.com/getting-started/scoped-packages)
 The access page gives you control over access to your package. To get to it, go to your package page at `https://www.npmjs.com/package/@username/your-package/access`, or click on the Collaborators link on the package page.
 
 <p class="centered">
-  <img src="http://npmblog-images.surge.sh/static-pages/collaborators-page.png" class="bordered">
+  <img src="https://npmblog-images.surge.sh/static-pages/collaborators-page.png" class="bordered">
 </p>
 
 ### Making a package private
@@ -35,7 +35,7 @@ The access page gives you control over access to your package. To get to it, go 
 All scoped packages default to restricted access. This ensures that you don't make something public by accident. You can change this on the access page.
 
 <p class="centered">
-  <img src="http://npmblog-images.surge.sh/static-pages/make-private-ui.gif" class="bordered">
+  <img src="https://npmblog-images.surge.sh/static-pages/make-private-ui.gif" class="bordered">
 </p>
 
 You can also manage package access via the command:
@@ -52,7 +52,7 @@ You can now add collaborators to your project on the website. The new interface 
 private modules as well as existing unscoped modules.
 
 <p class="centered">
-  <img src="http://npmblog-images.surge.sh/static-pages/add-collaborator.gif" class="bordered">
+  <img src="https://npmblog-images.surge.sh/static-pages/add-collaborator.gif" class="bordered">
 </p>
 
 You can also add collaborators on the command line:
