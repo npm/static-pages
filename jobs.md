@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-In **Engineering**, we are not currently looking for:
+In **Engineering**, we are currently looking for:
 * [UX/UI designer](#ux-ui-designer)
 * [Team lead](#team-lead-www-team)
 * [Frontend engineer](#frontend-engineer-www-team)
