@@ -4,7 +4,7 @@
 </hgroup>
 
 In **Engineering**, we are not currently looking for:
-* [UX/UI designer](#ux-ui-designer)
+* [UX/UI designer](#uxui-designer)
 * [Team lead](#team-lead-www-team)
 * [Frontend engineer](#frontend-engineer-www-team)
 * [Backend engineer](#backend-engineer-www-team)
