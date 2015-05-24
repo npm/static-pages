@@ -94,6 +94,6 @@ npm is not a typical product, and we are not a typical early-stage “work hard/
 
 ## License
 
-Copyright (C) npm, Inc., All rights reserved
+Copyright &copy; npm, Inc., All rights reserved
 
 This document may be reused under a [Creative Commons Attribution-ShareAlike License](http://creativecommons.org/licenses/by-sa/4.0/).
