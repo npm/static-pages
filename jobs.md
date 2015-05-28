@@ -10,8 +10,8 @@ In **Engineering**, we are currently looking for:
 * [Backend engineer](#backend-engineer-www-team)
 
 In **Marketing & Revenue Growth**, we are looking for:
-* [VP of Marketing](https://www.npmjs.com/marketing-bd-sales#vp-of-marketing)
 * [Senior Manager of Marketing Operations](https://www.npmjs.com/marketing-bd-sales#senior-marketing-operations-manager)
+* [Executive Assistant to the C-Level](https://www.npmjs.com/marketing-bd-sales#executive-assistant-to-c-level)
 
 Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
