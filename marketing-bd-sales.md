@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for a [Senior Marketing Manager](#senior-marketing-manager).
+We are currently looking for a [Senior Marketing Manager](#senior-marketing-manager) and an [Executive Assistant to C-Team](#Executive-Assistant-to-C-Team)
 
 If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
@@ -28,6 +28,44 @@ Because npm is small and growing start-up, we are looking for someone who happy 
 Finally, we are looking for someone who wants to grow with our company.   We have the millions of passionate users and the beginnings of a solid customer base.   This is a chance to have a direct and immediate impact.
 
 If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs.com)
+
+---------------
+
+## Executive Assistant to C-Team
+ 
+The successful candidate will work directly with the 3 co-founders (CEO, CTO and COO) and other executive staff providing administrative support and helping them to be more effective executives.  We’re looking for someone who is enthusiastic, flexible, and well organized.  Someone who really enjoys working with people and someone with strong interpersonal and communication skills.  A good sense of humor is a bonus.  We would love to find someone who is interested in growing into an executive role in HR as the company grows.
+
+If you thrive in an environment with constant change and growth, enjoy taking on a wide range of tasks and responsibilities, love staying on top of every detail, and are inspired by helping a team achieve their potential, we would love to meet you! 
+ 
+#### Responsibilities:
+
+- Administrative activities with high attention to detail and organization
+- Manage heavy calendaring, expense reporting, travel
+- Manage internal and external relationships with board, investors and partners
+- Meeting/event planning including team meetings, team building events, etc
+- Basic office admin help, including ordering of food, supplies, etc
+- New hire onboarding; space planning
+- Whatever else you think is important to do
+ 
+#### Desired Experience/Skills:
+
+- Incredibly bright, high energy individual with a passion to learn and contribute
+- Strong teamwork skills and an ability to take initiative and suggest improvements
+- Ability to be flexible in response to rapidly changing priorities and needs
+- High level of confidentiality, discernment, and judgment
+- Ability to communicate clearly and effectively
+- Ability to prioritize long task lists and meet deadlines with little direction
+- Proficient in Gcal, Gmail, Google Docs
+- Experience supporting senior management
+- 4 year college degree preferred
+ 
+#### Location.
+
+Our offices are located in downtown Oakland, California, near BART.  This position requires someone who works from our offices daily.
+
+If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs.com)
+
+------------------------------
 
 ## About npm, Inc.
 npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
