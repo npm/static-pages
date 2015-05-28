@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for a [Senior Marketing Manager](#senior-marketing-manager) and an [Executive Assistant to C-Team](#executive-assistant-to-c-team)
+We are currently looking for a [Senior Marketing Manager](#senior-marketing-manager) and an [Executive Assistant to C-Level-Team](#executive-assistant-to-c-level-team)
 
 If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
@@ -31,7 +31,7 @@ If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs
 
 ---------------
 
-## Executive Assistant to C-Team
+## Executive Assistant to C-Level Team
  
 The successful candidate will work directly with the 3 co-founders (CEO, CTO and COO) and other executive staff providing administrative support and helping them to be more effective executives.  We’re looking for someone who is enthusiastic, flexible, and well organized.  Someone who really enjoys working with people and someone with strong interpersonal and communication skills.  A good sense of humor is a bonus.  We would love to find someone who is interested in growing into an executive role in HR as the company grows.
 
