@@ -33,7 +33,7 @@ If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs
 
 ## Executive Assistant to C-Level Team
  
-The successful candidate will work directly with the 3 co-founders (CEO, CTO and COO) and other executive staff providing administrative support and helping them to be more effective executives.  We’re looking for someone who is enthusiastic, flexible, and well organized.  Someone who really enjoys working with people and someone with strong interpersonal and communication skills.  A good sense of humor is a bonus.  We would love to find someone who is interested in growing into an executive role in HR as the company grows.
+The successful candidate will work directly with the 3 co-founders (CEO, CTO and COO) providing administrative support and helping them to be more effective executives.  We’re looking for someone who is enthusiastic, flexible, and well organized.  Someone who really enjoys working with people and someone with strong interpersonal and communication skills.  A good sense of humor is a bonus.  We would love to find someone who is interested in growing into an executive role in HR as the company grows.
 
 If you thrive in an environment with constant change and growth, enjoy taking on a wide range of tasks and responsibilities, love staying on top of every detail, and are inspired by helping a team achieve their potential, we would love to meet you! 
  
