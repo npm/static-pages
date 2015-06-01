@@ -57,7 +57,6 @@ If you thrive in an environment with constant change and growth, enjoy taking on
 - Ability to prioritize long task lists and meet deadlines with little direction
 - Proficient in Gcal, Gmail, Google Docs
 - Experience supporting senior management
-- 4 year college degree preferred
  
 #### Location.
 
