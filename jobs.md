@@ -5,9 +5,9 @@
 
 In **Engineering**, we are currently looking for:
 * [UX/UI designer](#ux-ui-designer)
-* [Team lead](#team-lead-www-team)
+* [Engineering Manager](#engineering-manager-www-team)
+* [Architect, www team](#architect-www-team)
 * [Frontend engineer](#frontend-engineer-www-team)
-* [Backend engineer](#backend-engineer-www-team)
 
 In **Marketing & Revenue Growth**, we are looking for:
 * [Senior Marketing Manager](https://www.npmjs.com/marketing-bd-sales#senior-marketing-manager)
@@ -35,21 +35,25 @@ We are *not* asking you to also be a developer: while you will be part of the en
 This position will be based in our offices in Oakland, CA, and we are not looking for remote candidates for this position.
 
 
-## team lead, www team
+
+# engineering manager, www team
 
 [npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
 
 Now we have a ton of ambitious plans for it, including team-management features,  [curation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#collections) and [programmatic validation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#ecosystems) of packages, better stats, and significantly better search. We also have our [npm Enterprise](https://www.npmjs.com/enterprise) product, which needs a web experience all of its own.
 
-All these plans require we grow the www team from its current size of two to five people in 2015, and we want the first of those hires to be a senior engineer, capable of taking responsibility for the architecture of the site and leading the team.
+All these plans require we grow the www team from its current size of two to five people (plus a full-time designer) in 2015, and grow even further in 2016. That means they need their own manager to keep the team informed, unblocked and happy.
 
-That means an engineer with experience working on big projects, able to make tricky architectural decisions and then successfully communicate and delegate the implementation. We want somebody who also has the inclination to handle the task juggling and messy human parts of keeping a group of smart, motivated individuals happy and productive. 
+We don't need the engineering manager to be the best engineer on the team -- the skills that make a great team leader are not the same ones that make for a great architect. However, a background in engineering, especially as a leader of teams, will be a big asset. 
 
-We know that's not every engineer's idea of a good time. If this isn't what you want, we're hiring two other engineers. But if you're worried that you're not experienced enough, we encourage you to apply -- let us make that call. The worst that can happen is that we'll hire you for one of the other positions.
+We want somebody who is comfortable with the role of a manager as a force multiplier, who gets pleasure in seeing a team work smoothly together and release high-quality software. We want you to care about keeping engineers focused on code, applying just the right amount of process to minimize confusion without adding friction.
 
-The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
+You will absolutely need to be a great communicator, good at juggling tasks and priorities. And you'll need to have the kind of big-picture oversight skills to spot tasks and bugs that are slipping through the cracks, and making sure they get tackled before they become a drag on team momentum.
+
+The npm website is [open source](https://github.com/npm/newww), so the output of your team will open to the world, and handling contributions from external developers (people who don't work here regularly fix bugs in our website!) will also be your responsibility.
 
 Because of the amount of face time involved in representing the team, we are not accepting remote applicants for this role. This will be based in our offices in Oakland, CA.
+
 
 
 ## frontend engineer, www team
@@ -67,19 +71,26 @@ The npm website is [open source](https://github.com/npm/newww), so all your work
 We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
 
 
-## backend engineer, www team
+# architect, www team
 
 [npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
 
 Now we have a ton of ambitious plans for it, including team-management features,  [curation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#collections) and [programmatic validation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#ecosystems) of packages, better stats, and significantly better search. We also have our [npm Enterprise](https://www.npmjs.com/enterprise) product, which needs a web experience all of its own.
 
-All of this stuff relies on smart, well-designed APIs that integrate easily with our front-end code. As a backend engineer on the www team, you'll serve as the bridge between the registry and www teams, working in both code bases. You'll extend existing APIs to tackle new needs, add endpoints to increase efficiency, and spin up whole new services to provide the features that the site is going to need.
+To oversee this expansion, we need a senior engineer capable of taking responsibility for the architecture of the site. Somebody who's been in the web space a long time, and has an instinct for the "right way" to build a website rather than "new way" or the "fashionable way".
 
-We're not looking for a shopping list of languages and technologies. We're looking for people who are smart and get stuff done, who have a track record of understanding complicated problems and solving them. For this role in particular, it'll be important that you are a strong communicator and big-picture thinker, capable of weaving teams and systems together to achieve your goals. You probably won't be writing HTML and CSS, but it's a good idea if you care about websites.
+You won't be managing the team -- that's somebody else's full-time job. Instead you'll be responsible for understanding the full www system and how it integrates with our other systems. You'll be the one making the cost-benefit decisions of different approaches to adding new functionality, and have the final say on all architectural decisions in the www codebase. In the many places where the two systems interact, you'll be collaborating closely with the Registry team's architect.
+
+This is a hands-on coding role. Working with three other full-time www engineers and a designer, you'll be adding features to the www codebase, and spinning up new services to add functionality when necessary.
+
+It's also a leadership role, in that you'll be leading by example. You'll be demonstrating best practices, refactoring older code, and when appropriate, building tooling to smooth the way. You'll review the contributions of other engineers, and share responsiblity for mentoring them. 
+
+We're not looking for a shopping list of languages and technologies. We're looking for people who are smart and get stuff done, who have a track record of understanding complicated problems and solving them.
 
 The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
 
-We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
+Because this role relies on a great deal of human interaction to coordinate and collaborate with other teams, we are not accepting remote candidates for this role.
+
 
 
 ## About npm, Inc.
