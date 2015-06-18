@@ -36,7 +36,7 @@ This position will be based in our offices in Oakland, CA, and we are not lookin
 
 
 
-# engineering manager, www team
+## engineering manager, www team
 
 [npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
 
@@ -71,7 +71,7 @@ The npm website is [open source](https://github.com/npm/newww), so all your work
 We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
 
 
-# architect, www team
+## architect, www team
 
 [npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
 
