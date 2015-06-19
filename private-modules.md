@@ -2,6 +2,7 @@
 <h1>npm Private Modules</h1>
 <h2>create and share unlimited private modules for $7/month</h2>
 </hgroup>
+<div class="private-module-info-container">
 
 When you pay for private modules, you can:
 
@@ -11,6 +12,7 @@ When you pay for private modules, you can:
 - Collaborate on any packages that other paid users have given you write access to
 
 <a data-event-trigger="click" data-event-name="billing-via-private-modules-page" class="button" href="https://www.npmjs.com/settings/billing">sign up</a>
+</div>
 
 ## Scopes
 
