@@ -9,8 +9,8 @@ In **Engineering**, we are currently looking for:
 * [Architect, www team](#architect-www-team)
 * [Frontend engineer](#frontend-engineer-www-team)
 
-In **Marketing & Revenue Growth**, we are looking for:
-* [Senior Marketing Manager](https://www.npmjs.com/marketing-bd-sales#senior-marketing-manager)
+<!-- In **Marketing & Revenue Growth**, we are looking for:
+ * [Senior Marketing Manager](https://www.npmjs.com/marketing-bd-sales#senior-marketing-manager) -->
 
 Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
