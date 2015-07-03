@@ -3,7 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently looking for an npm Enterprise - Account Executive.  If you are interested in a random sales job, please email [hiring@npmjs.com](mailto:hiring@npmjs.com).
+We are currently looking for an npm Enterprise - Account Executive.  If you are interested, please email [hiring@npmjs.com](mailto:hiring@npmjs.com).
 
 ## npm Enterprise - Account Executive
 
