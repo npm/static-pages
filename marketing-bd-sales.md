@@ -33,7 +33,7 @@ You will be comfortable with a disciplined approach to sales, including automate
 
 We are looking for someone with 5+ years of demonstrated successful Enterprise Software or SaaS sales experience.  Ideally, you will also have startup experience and enough technical knowledge to understand what developers do and how npm can help them.
 
-#### Location.
+#### Location
 
 Our offices are located in downtown Oakland, California, near BART.  This position requires someone who works from our offices most days.
 
