@@ -6,8 +6,8 @@
 In **Engineering**, we are currently looking for:
 * [UX/UI designer](#ux-ui-designer)
 * [Engineering Manager](#engineering-manager-www-team)
-* [Architect, www team](#architect-www-team)
 * [Frontend engineer](#frontend-engineer-www-team)
+* [npm Enterprise engineer](#enterprise-engineer)
 
 In **Marketing & Revenue Growth**, we are looking for:
  * [npm Enterprise - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-enterprise-account-executive)
@@ -70,25 +70,50 @@ The npm website is [open source](https://github.com/npm/newww), so all your work
 We have a strong preference for candidates who are local to our offices in Oakland, CA, but we are accepting exceptional remote candidates who have a proven track record of successful remote work.
 
 
-## architect, www team
 
-[npmjs.com](https://www.npmjs.com) is growing quickly, with a million unique visitors every month and over 5MM page views. Having given it a totally new look and overhauled the backend over the last year, we launched [private modules](https://www.npmjs.com/private-modules) in April.
+## Enterprise Engineer
 
-Now we have a ton of ambitious plans for it, including team-management features,  [curation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#collections) and [programmatic validation](http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this#ecosystems) of packages, better stats, and significantly better search. We also have our [npm Enterprise](https://www.npmjs.com/enterprise) product, which needs a web experience all of its own.
+When companies need an on-premise npm registry, [npm
+Enterprise](http://npm.im/enterprise) is the solution we offer them.
+npm Enterprise runs the exact same codebase as the public registry
+running at <https://registry.npmjs.org>.
 
-To oversee this expansion, we need a senior engineer capable of taking responsibility for the architecture of the site. Somebody who's been in the web space a long time, and has an instinct for the "right way" to build a website rather than "new way" or the "fashionable way".
+Since we had to build most of the parts in order to facilitate running
+the public registry, we started selling npm Enterprise back in
+mid-2014.  Despite not having been a top company priority, it's been
+picked up by a few of the biggest companies in the world, and reflects
+a very significant portion of npm, Inc.'s revenue.
 
-You won't be managing the team -- that's somebody else's full-time job. Instead you'll be responsible for understanding the full www system and how it integrates with our other systems. You'll be the one making the cost-benefit decisions of different approaches to adding new functionality, and have the final say on all architectural decisions in the www codebase. In the many places where the two systems interact, you'll be collaborating closely with the Registry team's architect.
+Our goal is for this product to eventually be absolutely trivial for
+our customers to buy, install, administer, and manage, as part of
+npm's mission of reducing friction at all stages of JavaScript
+software developent.
 
-This is a hands-on coding role. Working with three other full-time www engineers and a designer, you'll be adding features to the www codebase, and spinning up new services to add functionality when necessary.
+As npm's Enterprise Engineer, you'll work on the last mile of making
+npm Enterprise the product that our customers need.  You'll also be
+working with customers directly to figure out what those needs are,
+and helping them to be successful.
 
-It's also a leadership role, in that you'll be leading by example. You'll be demonstrating best practices, refactoring older code, and when appropriate, building tooling to smooth the way. You'll review the contributions of other engineers, and share responsiblity for mentoring them. 
+You'll be working closely with the Registry Team (since the codebases
+overlap almost entirely), and also assisting with the sales and
+onboarding process in order to get a feel for what matters most to our
+users.
 
-We're not looking for a shopping list of languages and technologies. We're looking for people who are smart and get stuff done, who have a track record of understanding complicated problems and solving them.
+Your work will have a significant impact in the company's bottom line,
+while improving the lives of our users in an immediate and tangible
+way.  There is a ton of low-hanging fruit, and plenty of interesting
+challenges beyond.
 
-The npm website is [open source](https://github.com/npm/newww), so all your work on the main site will be, too.
+We're looking for someone who combines technical ability with empathy
+and a genuine interest in helping customers.  We don't want you
+solving the same problems over and over again; we want you improving
+the product so that common problems go away.  A background in
+consulting or technical support is useful, but not required.
 
-Because this role relies on a great deal of human interaction to coordinate and collaborate with other teams, we are not accepting remote candidates for this role.
+We prefer candidates who are local to our offices in downtown Oakland,
+California, but are open to remote work for the right candidate.  We
+cannot currently sponsor new work visas other than TN-1s, and we can
+transfer existing H-1Bs.
 
 
 
