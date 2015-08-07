@@ -19,7 +19,7 @@
   </div>
 
   <div class="clear">
-    <input type="submit" value="subscribe to the weekly" class="full-width" name="subscribe" id="mc-embedded-subscribe" class="button">
+    <input type="submit" value="subscribe to the Weekly" class="full-width" name="subscribe" id="mc-embedded-subscribe" class="button">
   </div>
 
 </form>
@@ -27,5 +27,5 @@
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
 
 <p>
-  Did you miss one? Check out the <a href="http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778" title="View previous campaigns">npm weekly archive</a>.
+  Did you miss one? Check out the <a href="http://us9.campaign-archive2.com/home/?u=077dfd41302a71310cef619e5&id=e17fe5d778" title="View previous campaigns">npm Weekly archive</a>.
 </p>
