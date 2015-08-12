@@ -89,7 +89,7 @@ transfer existing H-1Bs.
 ## Developer Community Manager
 We are looking for an enthusiastic Developer Community Manager to join the marketing team at npm, Inc. This Manager will build and support our technical community, increase community awareness of npm’s new products and developer tools, and educate developers on how to use npm in creating web, server-side, IoT, and mobile projects. 
  
-This Manager will have deep interest in JavaScript, Node.js and npm, and have a passion for building to build the npm community, drawing on a broad spectrum of skills: marketing, technical writing, business development, entrepreneurship.
+This Manager will have deep interest in JavaScript, Node.js and npm, and have a passion for building the npm community, drawing on a broad spectrum of skills: marketing, technical writing, business development, entrepreneurship.
  
 The Developer Community Manager will seek to understand the needs, concerns and culture of npm users, and be creative about connecting with this very technical community — experimenting with social media, blogging, events, webinars, instructional videos, partnerships, etc. This Manager will be a key member of the marketing team at npm, and work closely with the engineering, support, and sales teams at the company.
  
