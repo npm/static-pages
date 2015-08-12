@@ -25,7 +25,7 @@ A great way to learn about our product and how it fits in the universe of develo
 
 We are looking for an enthusiastic Developer Community Manager to join the marketing team at npm, Inc. This Manager will build and support our technical community, increase community awareness of npm’s new products and developer tools, and educate developers on how to use npm in creating web, server-side, IoT, and mobile projects. 
  
-This Manager will have deep interest in JavaScript, Node.js and npm, and have a passion for building to build the npm community, drawing on a broad spectrum of skills: marketing, technical writing, business development, entrepreneurship.
+This Manager will have deep interest in JavaScript, Node.js, and npm, and have a passion for building the npm community, drawing on a broad spectrum of skills: marketing, technical writing, business development, entrepreneurship.
  
 The Developer Community Manager will seek to understand the needs, concerns and culture of npm users, and be creative about connecting with this very technical community — experimenting with social media, blogging, events, webinars, instructional videos, partnerships, etc. This Manager will be a key member of the marketing team at npm, and work closely with the engineering, support, and sales teams at the company.
  
@@ -54,7 +54,7 @@ A great way to learn about our product and how it fits in the universe of develo
 
 #### Quick Intro to npm Enterprise
 
-npm, Inc recently added npm Enterprise - an on-premise software product that provides all the benefits of npm with the security and control enterprise users demand. Over 1,000 companies have expressed interest in npm Enterprise, with over 100 new companies beginning 30 day trials each month. Price points for npm Enterprise range between $300 for a POC to over $100K for a site license.
+npm, Inc recently added npm Enterprise — an on-premise software product that provides all the benefits of npm with the security and control enterprise users demand. Over 1,000 companies have expressed interest in npm Enterprise, with over 100 new companies beginning 30 day trials each month. Price points for npm Enterprise range between $300 for a POC to over $100K for a site license.
 
 #### The Position
 
@@ -64,7 +64,7 @@ This is a quota carrying position, but because our customers are developers, it 
 
 For large customers, the position will involve building and maintaining executive level relationships across customer organizations and business units, and navigating procurement processes typical of of $100K+ purchases.
 
-You will be comfortable with a disciplined approach to sales, including automated sales tools and maintaining an accurate and up to date information within our CRM.   We are a very data driven company and focus on pipeline progress and metrics around promptness of sales responses and customer satisfaction.
+You will be comfortable with a disciplined approach to sales, including automated sales tools and maintaining an accurate and up to date information within our CRM. We are a very data driven company and focus on pipeline progress and metrics around promptness of sales responses and customer satisfaction.
 
 #### Qualifications
 
