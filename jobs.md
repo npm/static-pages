@@ -1,5 +1,5 @@
 <!--
-title: Job listings — Engineering and Marketing & Revenue Growth Jobs in Oakland, CA · npm
+title: Job listings &mdash; Engineering and Marketing &amp; Revenue Growth Jobs in Oakland, CA · npm
 -->
 
 
