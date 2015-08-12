@@ -8,7 +8,7 @@ In **Engineering**, we are currently looking for:
 * [npm Enterprise engineer](#enterprise-engineer)
 
 In **Marketing & Revenue Growth**, we are looking for:
- * [npm Enterprise - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-enterprise-account-executive)
+ * [npm Developer COmmunity Manager](https://www.npmjs.com/marketing-bd-sales#npm-enterprise-account-executive)
 
 Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
@@ -83,11 +83,11 @@ This Manager will have deep interest in JavaScript, Node.js and npm, and have a 
  
 The Developer Community Manager will seek to understand the needs, concerns and culture of npm users, and be creative about connecting with this very technical community — experimenting with social media, blogging, events, webinars, instructional videos, partnerships, etc. This Manager will be a key member of the marketing team at npm, and work closely with the engineering, support, and sales teams at the company.
  
-###Qualifications
+### Qualifications
 
 We are looking for someone with a passion for building a technical community from the ground up. We’re a start-up — flexibility and a willingness to pitch in where needed are a plus. 
 
-###Location
+### Location
 
 Our offices are located in downtown Oakland, California. This position requires someone who works from our offices most days.
 
