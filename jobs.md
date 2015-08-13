@@ -106,7 +106,7 @@ If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs
 
 ------------------------------
 
-##npm Enterprise — Account Executive
+## npm Enterprise — Account Executive
 
 This is a unique opportunity to have a very big impact at an early stage, well funded, fast growing startup that already has tremendous traction.
 
