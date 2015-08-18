@@ -9,7 +9,7 @@ title: Job listings &mdash; Marketing &amp; Revenue Growth Jobs in Oakland, CA Â
 </hgroup>
 
 We are currently looking for
-* [Developer Community Manager](#npm-content-community-manager)
+* [Content & Community Manager](#npm-content-community-manager)
 * [npm Enterprise - Account Executive](#npm-enterprise-account-executive)
 
 
