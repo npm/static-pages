@@ -13,7 +13,7 @@ In **Engineering**, we are currently looking for:
 * [npm Enterprise engineer](#enterprise-engineer)
 
 In **Marketing & Revenue Growth**, we are looking for:
- * [npm Content Community Manager](https://www.npmjs.com/marketing-bd-sales#npm-content-community-manager)
+ * [npm Content & Community Manager](https://www.npmjs.com/marketing-bd-sales#npm-content-community-manager)
  * [npm Enterprise - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-enterprise-account-executive)
  
 
