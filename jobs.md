@@ -10,7 +10,7 @@ title: Job listings &mdash; Engineering and Marketing &amp; Revenue Growth Jobs 
 
 In **Engineering**, we are currently looking for:
 * [www engineer](#www-engineer)
-* [npm Enterprise engineer](#enterprise-engineer)
+* [npm On-Site Engineer](#on-site-engineer)
 
 In **Marketing & Revenue Growth**, we are looking for:
  * [npm Content & Community Manager](https://www.npmjs.com/marketing-bd-sales#npm-content-community-manager)
