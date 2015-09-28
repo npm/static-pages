@@ -15,7 +15,7 @@ In **Engineering**, we are currently looking for:
 In **Marketing & Revenue Growth**, we are looking for:
  * [npm Content & Community Manager](https://www.npmjs.com/marketing-bd-sales#npm-content-community-manager)
  * [npm Enterprise - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-enterprise-account-executive)
- 
+
 
 Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
@@ -39,17 +39,17 @@ The team is geographically distributed, so we work using a mix of Slack, ScreenH
 ------------------------------
 
 
-## Enterprise Engineer
+## On-Site Engineer
 
 When companies need an on-premise npm registry, [npm
-Enterprise](http://npm.im/enterprise) is the solution we offer them.
-npm Enterprise runs the exact same codebase as the public registry
+On-Site](http://npm.im/onsite) is the solution we offer them.
+npm On-Site runs the exact same codebase as the public registry
 running at <https://registry.npmjs.org>.
 
 Since we had to build most of the parts in order to facilitate running
-the public registry, we started selling npm Enterprise back in
-mid-2014.  Despite not having been a top company priority, it's been
-picked up by a few of the biggest companies in the world, and reflects
+the public registry, we started selling npm On-Site back in
+mid-2014.  We are increasing our focus on npm On-Site, a product that's
+been picked up by a few of the biggest companies in the world, and reflects
 a very significant portion of npm, Inc.'s revenue.
 
 Our goal is for this product to eventually be absolutely trivial for
@@ -57,8 +57,8 @@ our customers to buy, install, administer, and manage, as part of
 npm's mission of reducing friction at all stages of JavaScript
 software developent.
 
-As npm's Enterprise Engineer, you'll work on the last mile of making
-npm Enterprise the product that our customers need.  You'll also be
+As npm's On-Site Engineer, you'll work on the last mile of making
+npm On-Site the product that our customers need.  You'll also be
 working with customers directly to figure out what those needs are,
 and helping them to be successful.
 
@@ -66,6 +66,10 @@ You'll be working closely with the Registry Team (since the codebases
 overlap almost entirely), and also assisting with the sales and
 onboarding process in order to get a feel for what matters most to our
 users.
+
+npm is an open-source focused company. Because npm On-Site is one
+of our flagship paid products, we hope to take steps towards open-sourcing
+many of its components. This will be an important aspect of your job.
 
 Your work will have a significant impact in the company's bottom line,
 while improving the lives of our users in an immediate and tangible
