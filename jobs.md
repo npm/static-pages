@@ -38,7 +38,6 @@ The team is geographically distributed, so we work using a mix of Slack, ScreenH
 
 ------------------------------
 
-
 ## On-Site Engineer
 
 When companies need an on-premise npm registry, [npm
@@ -48,8 +47,8 @@ running at <https://registry.npmjs.org>.
 
 Since we had to build most of the parts in order to facilitate running
 the public registry, we started selling npm On-Site back in
-mid-2014.  We are increasing our focus on npm On-Site, a product that's
-been picked up by a few of the biggest companies in the world, and reflects
+mid-2014.  We are increasing our focus on npm On-Site, a product that is being
+used by some of the largest companies in the world and reflects
 a very significant portion of npm, Inc.'s revenue.
 
 Our goal is for this product to eventually be absolutely trivial for
