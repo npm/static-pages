@@ -81,7 +81,11 @@ You will be comfortable with a disciplined approach to sales, including automate
 
 #### Qualifications
 
-We are looking for someone with 5+ years of demonstrated successful Enterprise Software or SaaS sales experience.  Ideally, you will also have startup experience and enough technical knowledge to understand what developers do and how npm can help them.
+We are looking for someone with a University Degree and a year or two of business experience with, preferably, some experience with a similar role within a sales organization.   Experience with SalesForce is a huge plus.
+
+Technical experience is not necessary, but demonstrated interest in learning about technology and the work of developers is important.   We’ll be able to teach you what you need to know.
+
+This is an opportunity to accelerate your career and we are looking for someone who wants to move into technology sales, learn in the context of a growing company and move up into the role of AE within 12 to 18 months.
 
 #### Location
 
