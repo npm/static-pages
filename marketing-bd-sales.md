@@ -13,6 +13,19 @@ We are currently looking for
 * [npm On-Site - Account Executive](#npm-On-Site-account-executive)
 * [npm Sales Development Representative](#npm-Sales-Development-Representative)
 
+------------------------------
+
+## About npm, Inc.
+npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
+
+npm’s mission is to take Open Source development to entirely new places. When everyone else is adding force, we work to reduce friction.
+
+npm is not a typical product, and we are not a typical early-stage “work hard/play hard” startup. We are responsible adults with diverse backgrounds and interests, who take our careers and our lives seriously. We believe that the best way to iterate towards success is by taking care of ourselves, our families, our users, and one another. We aim for a sustainable approach to work and life, because that is the best way to maximize long-term speed, while retaining clarity of vision. Compassion is our strategy.
+
+Our offices are in downtown Oakland, California. We offer very competitive salaries, meaningful equity, and generous health, dental and vision benefits. We love it when you represent us at conferences.
+
+------------------------------
+
 ## <a name="npm-content-community-manager"></a>Content & Community Manager
 
 #### Quick Intro to npm
@@ -118,16 +131,3 @@ We are looking for someone with 5+ years of demonstrated successful Enterprise S
 Our offices are located in downtown Oakland, California. This position requires someone who works from our offices most days.
 
 If you are interested, please email [hiring@npmjs.com](mailto:hiring@npmjs.com).
-
-------------------------------
-
-## About npm, Inc.
-npm is the package manager for JavaScript. The team is small, and growing quickly. If you join us, you will see the company grow through numerous changes, and take a bunch of different roles.
-
-npm’s mission is to take Open Source development to entirely new places. When everyone else is adding force, we work to reduce friction.
-
-npm is not a typical product, and we are not a typical early-stage “work hard/play hard” startup. We are responsible adults with diverse backgrounds and interests, who take our careers and our lives seriously. We believe that the best way to iterate towards success is by taking care of ourselves, our families, our users, and one another. We aim for a sustainable approach to work and life, because that is the best way to maximize long-term speed, while retaining clarity of vision. Compassion is our strategy.
-
-Our offices are in downtown Oakland, California. We offer very competitive salaries, meaningful equity, and generous health, dental and vision benefits. We love it when you represent us at conferences.
-
-If you are interested, please email us at [hiring@npmjs.com](mailto:hiring@npmjs.com)
