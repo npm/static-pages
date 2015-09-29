@@ -13,7 +13,6 @@ In **Engineering**, we are currently looking for:
 * [npm On-Site Engineer](#on-site-engineer)
 
 In **Marketing & Revenue Growth**, we are looking for:
- * [npm Content & Community Manager](https://www.npmjs.com/marketing-bd-sales#npm-content-community-manager)
  * [npm On-Site - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-On-Site-account-executive)
  * [npm Sales Development Representative](https://www.npmjs.com/marketing-bd-sales#npm-Sales-Development-Representative)
 
