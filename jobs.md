@@ -3,10 +3,10 @@ title: Job listings &mdash; Engineering and Marketing &amp; Revenue Growth Jobs 
 -->
 
 
-<hgroup>
+<header>
   <h1>nice people matter</h1>
   <h2>npm is hiring</h2>
-</hgroup>
+</header>
 
 In **Engineering**, we are currently looking for:
 * [www engineer](#www-engineer)
