@@ -12,9 +12,10 @@ In **Engineering**, we are currently looking for:
 * [www engineer](#www-engineer)
 * [npm On-Site Engineer](#on-site-engineer)
 
-In **Marketing & Revenue Growth**, we are looking for:
+<!-- In **Marketing & Revenue Growth**, we are looking for:
  * [npm On-Site - Account Executive](https://www.npmjs.com/marketing-bd-sales#npm-On-Site-account-executive)
  * [npm Sales Development Representative](https://www.npmjs.com/marketing-bd-sales#npm-Sales-Development-Representative)
+-->
 
 Even if none of those is what you're interested in, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
