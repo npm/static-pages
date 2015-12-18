@@ -13,7 +13,7 @@ We are currently accepting applications for a [summer internship](#internship). 
 We’d like to hear from you.
 
 
-##Internship
+## Internship
 
 If you're currently in full-time education (class of 2017 or 2018) and looking for a summer internship with an open-source project that can also pay you, we are happy to say that we can offer you a place at npm, Inc. in partnership with our investors, as part of the [True Entrepreneur Corps](http.//www.trueventures.com/tec/) program.
 
