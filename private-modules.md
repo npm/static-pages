@@ -58,4 +58,6 @@ When you try to install a private package from the CLI, you might get an access 
 
 ## Organizations
 
-Currently, private packages are only available for individual users, but support for organization accounts is coming soon. Feel free to create a user for your organization in the meantime, and we can upgrade it to an organization when support is here.
+You can now use private packages for your organization!
+
+Learn more about [organizations](https://www.npmjs.com/npm/private-packages).
