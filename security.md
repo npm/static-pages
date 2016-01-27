@@ -16,7 +16,7 @@ Our services are fronted by a CDN that allows for protection from Distributed De
 
 ## Security in Transit
 
-All private data exchanged with npm from the command line and via the website is passed over encrypted connections (HTTPS and SSL).
+All private data exchanged with npm from the command line and via the website is passed over encrypted connections (HTTPS and TLS).
 
 ## Physical and Data Security
 
