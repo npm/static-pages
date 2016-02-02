@@ -14,7 +14,7 @@ We’d like to hear from you.
 
 ## Lead Product Designer
 
-npm is the largest module repository in the world, built to help developers connect and share JavaScript code. Since its inception in 2013, our passionate community has shared more than 230,000 modules, and in the last week alone, they’ve downloaded these almost a billion times.
+npm is the largest module repository in the world, built to help developers connect and share JavaScript code. Since its inception in 2009, our passionate community has shared more than 230,000 modules, and in the last week alone, they’ve downloaded these almost a billion times.
 
 We also are a key part of the inner-source movement, which takes lessons learned in developing open source software and applies them to help companies develop software internally.
 
