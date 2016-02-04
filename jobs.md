@@ -8,9 +8,50 @@ title: Job listings &mdash; Engineering and Marketing &amp; Revenue Growth Jobs 
   <h2>npm is hiring</h2>
 </hgroup>
 
-We are currently accepting applications for a [lead product designer](#lead-product-designer) and a [summer intern](#internship). Even if that's not what you have in mind, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
+We are currently accepting applications for two [support techs](#support-tech), a [lead product designer](#lead-product-designer), and a [summer intern](#internship). Even if that's not what you have in mind, if you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
 We’d like to hear from you.
+
+## Support Tech
+
+npm has more than 3 million users worldwide and that number is growing
+fast. Their use-cases are incredibly diverse: from systems
+administrators writing automation tools, to hobbyists building robots,
+to back-end engineers building mobile app APIs, to millions of
+front-end developers.
+
+Our mission at npm is to reduce developer friction.  We do it by
+building tools that make JavaScript developers' lives easier, by
+maintaining a registry with better than 99.999% uptime, and by
+answering each of the tweets, emails, and GitHub issues that our users
+send us every day.
+
+npm has been successful because we care about our users.  "npm loves
+you" is not just marketing; it's a core company value.  Users
+frequently report our responsive and friendly support team as a key
+reason why they love our products.
+
+### is this you?
+
+The right people for this job combine empathy and communication skills
+with a passion for solving technical problems.  Experience with Open
+Source and customer service are beneficial, but not required.
+
+Your job will be to serve as the first line of support, fielding
+common questions, building up FAQs, on-boarding new customers, and
+solving the unusual or complicated cases yourself, with the help of
+every member of the engineering team.
+
+By directly helping our users and customers, and interacting with
+every member of the team, you'll gain the kind of cross-company
+insight that is so valuable to a career in technology.
+
+Sometimes, this job is hard, because people are not always nice.  You'll be helping to keep the npm community a safe and friendly place, with the technical and emotional support of the entire company, and the gratitude of countless developers who participate in the npm ecosystem.
+
+We're opening two roles for new Support Techs.  You'll
+be a full employee with all benefits, including competitive salary and
+stock options.  We are not accepting remote candidates for this role.
+
 
 ## Lead Product Designer
 
@@ -51,7 +92,7 @@ Our first intern, [Faiq](https://twitter.com/faiqus), wrote about [what he learn
 > Imagine working at a place with some of the best and kindest engineers, getting paid to write open source code, and being immersed in one of the most diverse developer communities ever. It sounds too good to be true, doesn't it? When you get a chance to work at npm, you'll be doing exactly that. Day to day, you'll get to work on challenging problems that push your limits as an engineer. You'll run into problems that'll seem impossible at first, but by the end of your internship will seem like a piece of cake! This internship is one of the most unique opportunites you'll get, so definitely give it a shot and apply!
 
 Faiq worked on our website and search. Even after leaving npm, Faiq continues to be involved and has even [committed to npm core](https://github.com/npm/npm/commits/master?author=faiq). You can expect a range of opportunities depending on your interests.
- 
+
 If you are interested, please send a brief email introducing yourself as well as a PDF or Google doc of your resume to [jobs@npmjs.com](mailto:jobs@npmjs.com) and include the word "internship" in your subject line. The internship is based in our uptown Oakland, California office. You must be part of the graduating class of 2017 or 2018 and legally able to work in the United States; we are not currently able to sponsor visa applications.
 
 
