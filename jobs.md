@@ -12,6 +12,10 @@ We are currently accepting applications for two [support techs](#support-tech), 
 
 We’d like to hear from you.
 
+* [Support Tech](#support-tech)
+* [Lead Product Designer](#lead-product-designer)
+* [Internship](#internship)
+
 ## Support Tech
 
 npm has more than 3 million users worldwide and that number is growing
