@@ -38,7 +38,7 @@
         <div class="col-xs-22 col-xs-offset-0 col-sm-22 col-sm-offset-0">
             <p class="h4 em-default ptxl mbsm txt-c">Did you miss one?</p>
             <p class="txt-c">
-                <a href="/enterprise" class="link-text link-alt-2 h4 em-default" rel="npm:enterprise-landing" data-event-name="features-pricing-learn-npme">View the archives</a>
+                <a href="https://medium.com/npm-inc/tagged/npm-weekly" class="link-text link-alt-2 h4 em-default" data-event-name="medium-npm-weekly" target="_blank">View the archives</a>
             </p>
         </div>
     </div>
