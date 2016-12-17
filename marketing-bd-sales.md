@@ -3,10 +3,10 @@ title: Job listings &mdash; Marketing &amp; Revenue Growth Jobs in Oakland, CA Â
 -->
 
 
-<hgroup>
+<header>
   <h1>nice people matter</h1>
   <h2>npm is hiring</h2>
-</hgroup>
+</header>
 
 We are not actively hiring for any open positions in Marketing, Community Engagement, Sales, and Business Development.   However, npm is growing quickly and we expect to be hiring again in the next few months.
 

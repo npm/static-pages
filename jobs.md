@@ -3,10 +3,10 @@ title: Job listings &mdash; Engineering and Marketing &amp; Revenue Growth Jobs 
 -->
 
 
-<hgroup>
+<header>
   <h1>nice people matter</h1>
   <h2>npm is hiring</h2>
-</hgroup>
+</header>
 
 We are not currently hiring for any specific positions. If you would like to work with us and have skills you think would be helpful, please send an email with evidence of your experience (like your resume, or links to LinkedIn/GitHub/wherever) to [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
