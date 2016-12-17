@@ -19,16 +19,16 @@
                 <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required="required" autocorrect="off" autocapitalize="off">
                 <p class="action-secondary" style="margin-top: -10px; margin-bottom: 30px;">(we won’t share your address with anyone)</p>
                 <div id="mce-responses" class="clear">
-                    <div class="response" id="mce-error-response" style="display:none">
+                    <div class="response type-error-2" id="mce-error-response" style="display:none; margin-bottom: 20px;">
                     </div>
-                    <div class="response" id="mce-success-response" style="display:none">
+                    <div class="response type-success-1" id="mce-success-response" style="display:none; margin-bottom: 20px;">
                     </div>
                 </div><!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
                 <div style="position: absolute; left: -5000px;">
                     <input type="text" name="b_077dfd41302a71310cef619e5_e17fe5d778" tabindex="-1" value="">
                 </div>
                 <div class="clear">
-                    <input value="Subscribe to the Weekly" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin-bottom: 30px;">
+                    <input type="submit" value="Subscribe to the Weekly" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style="margin-bottom: 30px;">
                 </div>
             </form>
             <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
