@@ -4,7 +4,7 @@
     <div class="pane" id="features-unleash-awesomeness-pane" style="background-image: radial-gradient(ellipse farthest-corner at 48.2% 47.9%, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.7) 49.36%, rgba(255, 255, 255, 0) 84.65%)">
         <div class="row" style="padding-top: 60px; padding-bottom: 60px;">
             <h1 class="col-xs-0 col-xs-offset-0 txt-c em-low title">npm Weekly</h1>
-            <p class="h4 txt-c em-default mbxl">What we’re working on, thinking about, and talking about</p>
+            <p class="col-xs-16 col-xs-offset-4 col-sm-22 col-sm-offset-1 h4 txt-c em-default mbxl">What we’re working on, thinking about, and talking about</p>
             <div class="col-sm-16 col-sm-offset-4"></div>
         </div>
     </div>
@@ -38,7 +38,7 @@
         <div class="col-xs-22 col-xs-offset-0 col-sm-22 col-sm-offset-0">
             <p class="h4 em-default ptxl mbsm txt-c">Did you miss one?</p>
             <p class="txt-c">
-                <a href="https://medium.com/npm-inc/tagged/npm-weekly" class="link-text link-alt-2 h4 em-default" data-event-name="medium-npm-weekly" target="_blank">View the archives</a>
+                <a href="https://medium.com/npm-inc/tagged/npm-weekly" class="link-text link-alt-2 h4 em-default type-npm-brand" data-event-name="medium-npm-weekly" target="_blank">View the archives</a>
             </p>
         </div>
     </div>
