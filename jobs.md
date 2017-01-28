@@ -3,6 +3,12 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
+## Current openings
+
+ * [software engineer — registry][sweng-reg]
+ * [software engineer — npm Enterprise][sweng-ent]
+ * [software engineer — web services][sweng-web]
+
 
 npm, Inc. maintains the _npm_ package manager for JavaScript and hosts the world’s largest software registry. Our technology has been embraced by millions of developers worldwide for client- and server-side applications as diverse as IoT, mobile development, financial services, and aerospace. More than 30,000 companies, including the BBC, DocuSign, IBM, SiriusXM, Slack, and Visa, rely on npm’s products and services to reduce developer friction and build amazing things.
 
@@ -23,3 +29,9 @@ This document may be reused under a [Creative Commons Attribution-ShareAlike Lic
 
 
 [offices]: https://www.google.com/maps/place/1999+Harrison+St,+Oakland,+CA+94612/@37.8077715,-122.2673374,17z/data=!3m1!4b1!4m2!3m1!1s0x808f874d2c997df9:0x8afe4a3bcea14bc3
+
+[sweng-reg]: https://jobs.lever.co/npmjs/4f350d4d-87ad-4d4a-a005-86e4fbeb491a "npmjs - software engineer — registry"
+
+[sweng-ent]: https://jobs.lever.co/npmjs/b9998f7a-6afb-40e4-8fbf-dd3e03640fb4 "npmjs - software engineer — npm Enterprise"
+
+[sweng-web]: https://jobs.lever.co/npmjs/7187a425-899b-4db3-8fc7-21432ca2237c "npmjs - software engineer — web services"
