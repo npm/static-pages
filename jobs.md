@@ -8,6 +8,7 @@
  * [software engineer — registry][sweng-reg]
  * [software engineer — npm Enterprise][sweng-ent]
  * [software engineer — web services][sweng-web]
+ * [marketing operations associate][marketing]
 
 
 npm, Inc. maintains the _npm_ package manager for JavaScript and hosts the world’s largest software registry. Our technology has been embraced by millions of developers worldwide for client- and server-side applications as diverse as IoT, mobile development, financial services, and aerospace. More than 30,000 companies, including the BBC, DocuSign, IBM, SiriusXM, Slack, and Visa, rely on npm’s products and services to reduce developer friction and build amazing things.
@@ -35,3 +36,5 @@ This document may be reused under a [Creative Commons Attribution-ShareAlike Lic
 [sweng-ent]: https://jobs.lever.co/npmjs/b9998f7a-6afb-40e4-8fbf-dd3e03640fb4 "npmjs - software engineer — npm Enterprise"
 
 [sweng-web]: https://jobs.lever.co/npmjs/7187a425-899b-4db3-8fc7-21432ca2237c "npmjs - software engineer — web services"
+
+[marketing]: https://jobs.lever.co/npmjs/98071321-a7fd-426e-bd59-927cab8c49d6 "npmjs - marketing operations associate"
