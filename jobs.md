@@ -5,11 +5,21 @@
 
 ## Current openings
 
- * [software engineer — registry][sweng-reg]
- * [software engineer — npm Enterprise][sweng-ent]
- * [software engineer — web services][sweng-web]
- * [marketing operations associate][marketing]
+The following openings are currently accepting new applications:
 
+* [marketing operations associate][marketing]
+
+These openings are in process, but no longer accepting new
+applications:
+
+* software engineer — registry
+* software engineer — npm Enterprise
+* software engineer — web services
+
+If you applied for one of these positions, you should be hearing from
+us soon about your place in the process.
+
+## About npm
 
 npm, Inc. maintains the _npm_ package manager for JavaScript and hosts the world’s largest software registry. Our technology has been embraced by millions of developers worldwide for client- and server-side applications as diverse as IoT, mobile development, financial services, and aerospace. More than 30,000 companies, including the BBC, DocuSign, IBM, SiriusXM, Slack, and Visa, rely on npm’s products and services to reduce developer friction and build amazing things.
 
@@ -20,7 +30,6 @@ npm is not a typical product, and we are not a typical early-stage “work hard/
 We aim for a sustainable approach to work and life, because that is the best way to maximize long-term speed, while retaining clarity of vision. Compassion is our strategy.
 
 [Our offices][offices] are in Oakland, California. We offer very competitive salaries, meaningful equity, and generous health, dental, and vision benefits. We love it when you represent us at conferences.
-
 
 ## License
 
