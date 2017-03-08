@@ -5,16 +5,13 @@
 
 ## Current openings
 
-The following openings are currently accepting new applications:
-
-* [marketing operations associate][marketing]
-
 These openings are in process, but no longer accepting new
 applications:
 
 * software engineer — registry
 * software engineer — npm Enterprise
 * software engineer — web services
+* marketing operations associate
 
 If you applied for one of these positions, you should be hearing from
 us soon about your place in the process.
