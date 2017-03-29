@@ -5,6 +5,10 @@
 
 ## Current openings
 
+npm is currently seeking applicants for one position:
+
+* [support tech](https://jobs.lever.co/npmjs/18405bfa-bc7b-4f48-9dc0-f628c1851307)
+
 These openings are in process, but no longer accepting new
 applications:
 
