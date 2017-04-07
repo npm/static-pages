@@ -17,9 +17,15 @@ npm is lots of things.
 
 ## About npm, Inc.
 
-npm, Inc. is a company co-founded in 2014 by npm's creator, Isaac Z. Schlueter, along with Laurie Voss and Rod Boothby.
+npm, Inc. is a company founded in 2014.  Its executive team is:
 
-npm, Inc. is dedicated to the long term success of the JavaScript community, which includes the success of the open-source Node.js and npm projects.
+- Isaac Z. Schlueter, CEO
+- Laurie Voss, COO
+- CJ Silverio, CTO
+
+npm, Inc. is dedicated to the long term success of the JavaScript
+community, which includes the success of the open-source Node.js and
+npm projects.
 
 At npm, Inc. we do three things to support this goal:
 
