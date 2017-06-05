@@ -7,12 +7,6 @@
 
 npm is not currently seeking applicants for any specific position, but if you would like to work with us, you can always email [jobs@npmjs.com](mailto:jobs@npmjs.com).
 
-Interviews for this position are in process, but no longer accepting new applications:
-
-* support tech
-
-If you applied for one of these positions, you should be hearing from us soon about your place in the process.
-
 ## About npm
 
 npm, Inc. maintains the _npm_ package manager for JavaScript and hosts the world’s largest software registry. Our technology has been embraced by millions of developers worldwide for client- and server-side applications as diverse as IoT, mobile development, financial services, and aerospace. More than 30,000 companies, including the BBC, DocuSign, IBM, SiriusXM, Slack, and Visa, rely on npm’s products and services to reduce developer friction and build amazing things.
