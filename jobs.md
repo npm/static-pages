@@ -16,7 +16,7 @@ Our services team values analysis, communication, action, sustainability, and re
 
 Our headquarters are in Oakland, California. The services team has members in Oakland, Seattle, Portland, Brooklyn, England, and Poznan. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
 
-Please send your resume to jobs@npmjs.com, or via PCOIT or LinkedIn
+##Please send your resume to jobs@npmjs.com, or via PCOIT or LinkedIn
 
 ## About npm
 
