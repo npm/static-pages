@@ -6,6 +6,7 @@
 ## Current openings
 
 ### Software Engineer at npm, Inc., in the services team, engineer on the npm Enterprise product
+
 npm is the world’s largest software repository, with 6 million users and over 6 billion downloads every month. We’ve got big plans for 2017, adding new features to our website and registry that will let JavaScript developers work better and faster. For that we need creative, experienced engineers.  The npm Enterprise product (abbreviated as npmE) is a subset of npm’s registry services packaged to run as an appliance within the control of its customers. npmE allows companies to run their own API-compatible registries on their own infrastructure.
 
 As an npmE engineer you will work with the rest of the services team to integrate work from the public registry into npmE and vice versa. At times, you will work one-on-one with our customers to assist them in installing the product or troubleshooting issues with their installation. You will then take those lessons back to improve the product or its documentation and make it even easier to use for the next customer. You’ll listen to our customers’ needs, and design features to better satisfy them.
