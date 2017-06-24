@@ -5,7 +5,7 @@
 
 ## Current openings
 
-### Software Engineer at npm, Inc., in the services team, engineer on the npm Enterprise product
+### Software Engineer on the npm Enterprise product
 
 npm is the world’s largest software repository, with 8 million users and over 10 billion downloads every month. We’ve got big plans for 2017, adding new features to our website and registry that will let JavaScript developers work better and faster. For that we need creative, experienced engineers.  The npm Enterprise product (abbreviated as npmE) is a subset of npm’s registry services packaged to run as an appliance within the control of its customers. npmE allows companies to run their own API-compatible registries on their own infrastructure.
 
@@ -17,7 +17,7 @@ Our services team values analysis, communication, action, sustainability, and re
 
 Our headquarters are in Oakland, California. The services team has members in Oakland, Seattle, Portland, Brooklyn, England, and Poznan. If you have experience working remotely, so do we. We cannot currently sponsor new work visas other than TN-1s, but we can transfer existing H-1Bs.
 
-**Please send your resume to jobs@npmjs.com, or via POCIT https://www.pocitjobs.com/ or LinkedIn**
+**To apply, please send your resume to [jobs@npmjs.com](mailto:jobs@npmjs.com)**
 
 ## About npm
 
