@@ -7,6 +7,7 @@
 
 npm is currently hiring for the following positions:
 
+* [Technical writer](https://jobs.lever.co/npmjs/b9b1b489-23ab-4167-b597-54114c9c01dd)
 * [Software Engineer on the npm Enterprise product](https://jobs.lever.co/npmjs/feb72d45-d040-450b-8326-64df23f453d3)
 
 ## About npm
