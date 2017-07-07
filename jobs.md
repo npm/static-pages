@@ -3,8 +3,6 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-## Current openings
-
 npm is currently hiring for the following positions:
 
 * [Technical writer](https://jobs.lever.co/npmjs/b9b1b489-23ab-4167-b597-54114c9c01dd)
