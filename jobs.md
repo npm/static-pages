@@ -3,10 +3,13 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-npm is currently hiring for the following positions:
+npm is currently accepting applications for this position:
 
 * [Technical writer](https://jobs.lever.co/npmjs/b9b1b489-23ab-4167-b597-54114c9c01dd)
-* [Software Engineer on the npm Enterprise product](https://jobs.lever.co/npmjs/feb72d45-d040-450b-8326-64df23f453d3)
+
+We have stopped accepting applications and are in the screening process for this position:
+
+* Software Engineer on the npm Enterprise product
 
 ## About npm
 
