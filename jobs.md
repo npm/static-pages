@@ -3,16 +3,14 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-npm is currently accepting applications for this position:
-
-* [Project
-  Manager](https://jobs.lever.co/npmjs/08ba9797-f072-4dc7-be3a-aa6fa6ea7ade):
-  Accepting resumes through 2017-08-11
+No open positions at this time.  Check back soon, or follow
+[@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
 We have stopped accepting applications and are in the screening process for these positions:
 
 * Software Engineer on the npm Enterprise product
 * Technical writer
+* Project Manager
 
 ## About npm
 
