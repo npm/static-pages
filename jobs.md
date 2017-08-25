@@ -7,7 +7,7 @@
  npm is currently accepting applications for this position:
  
  * [Support Tech](https://jobs.lever.co/npmjs/df3f33bf-d28f-4939-9104-56b875e26d8e):
-   Accepting resumes through 2017-08-25
+   Accepting resumes through 2017-09-01
   
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
