@@ -6,7 +6,7 @@
  
  npm is currently accepting applications for these positions:
  
- *[Support Technician] (https://jobs.lever.co/npmjs/df3f33bf-d28f-4939-9104-56b875e26d8e)
+ * [Support Technician:](https://jobs.lever.co/npmjs/df3f33bf-d28f-4939-9104-56b875e26d8e)
   Accepting resumes through 2017-09-01
  
  * [Head of Finance](https://jobs.lever.co/npmjs/51c29a7c-1f84-4596-9b96-8a296e190515):
