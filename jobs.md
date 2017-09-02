@@ -11,7 +11,7 @@
   
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
-We have stopped accepting applications and are in the screening process for these positions:
+We have stopped accepting applications and are in the screening process for the following positions:
 
 * Support Technician
 * Software Engineer on the npm Enterprise product
