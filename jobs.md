@@ -7,7 +7,7 @@
  npm is currently accepting applications for these positions:
  
  * [Head of Finance](https://jobs.lever.co/npmjs/51c29a7c-1f84-4596-9b96-8a296e190515):
-   Accepting resumes through 2017-09-15
+   Accepting resumes through 2017-09-22
   
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
