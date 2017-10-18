@@ -7,7 +7,8 @@ We have two new open positions:
 
 * Digital Marketing Manager
 * VP Sales 
-Apply here(https://jobs.lever.co/npmjs)
+
+[Apply Here](https://jobs.lever.co/npmjs)
 
 ## Closing date for these positions is: Friday, November 3, 2017
 
