@@ -3,12 +3,15 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
+We have two new open positions
+* Digital Marketing Manager
+* VP Sales
 
+## Closing date for these positions is: Friday, November 3, 2017
 
 We are in the screening process for the following positions:
 
 * Support Technician
-* Project Manager
 * Head of Finance
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
