@@ -10,7 +10,7 @@ We have two new open positions:
 
 [Apply Here](https://jobs.lever.co/npmjs)
 
-## Closing date for these positions is: Friday, November 3, 2017
+## Closing date for these positions is Friday, November 3, 2017
 
 We are in the screening process for the following positions:
 
