@@ -3,9 +3,11 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have two new open positions
+We have two new open positions:
+
 * Digital Marketing Manager
-* VP Sales
+* VP Sales 
+Apply here(https://jobs.lever.co/npmjs)
 
 ## Closing date for these positions is: Friday, November 3, 2017
 
