@@ -6,13 +6,13 @@
 We have two new open positions:
 
 * [Digital Marketing Manager](https://jobs.lever.co/npmjs/8ea3d170-62be-48aa-9d01-12ed6edc0195)
+## Closing date for the Digital Marketing Manager is Friday, November 3, 2017
+
 * [VP Sales](https://jobs.lever.co/npmjs/0d636c99-d432-40e4-8e14-4752e906b885)
+## Closing date for the VP Sales is Friday, November 17, 2017
 
-## Closing date for these positions is Friday, November 3, 2017
+We are in the screening process for the following position:
 
-We are in the screening process for the following positions:
-
-* Support Technician
 * Head of Finance
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
