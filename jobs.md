@@ -7,7 +7,7 @@ We have one open position:
 
 * [VP Sales](https://jobs.lever.co/npmjs/0d636c99-d432-40e4-8e14-4752e906b885)
 
-##Closing date for the VP Sales is Friday, November 17, 2017
+## Closing date for the VP Sales is Friday, November 17, 2017
 
 We are in the screening process for the following position:
 
