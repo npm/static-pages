@@ -3,16 +3,14 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have one open position:
+We have two open positions:
 
-* [VP Sales](https://jobs.lever.co/npmjs/0d636c99-d432-40e4-8e14-4752e906b885)
+* [VP Sales](https://jobs.lever.co/npmjs/0d636c99-d432-40e4-8e14-4752e906b885) - closing on Friday, November 17, 2017
+* [Engineering Manager](https://jobs.lever.co/npmjs/a62c4fe3-3ea4-495b-a9ec-18b7cf35d649) - closing on Monday, November 27
 
-## Closing date for the VP Sales is Friday, November 17, 2017
-
-We are in the screening process for the following position:
+We are in the screening process for the following positions:
 
 * Digital Marketing Manager
-
 * Head of Finance
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
