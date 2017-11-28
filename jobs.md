@@ -3,12 +3,11 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have one open position:
-
-* [Engineering Manager](https://jobs.lever.co/npmjs/a62c4fe3-3ea4-495b-a9ec-18b7cf35d649) - closing on Monday, November 27
+We have no open positions at this time.
 
 We are in the screening process for the following positions:
 
+* Senior Engineering Manager
 * VP Sales
 * Digital Marketing Manager
 * Head of Finance
