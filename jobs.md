@@ -8,7 +8,7 @@ We have two open positions at this time.
 Sr. Service Reliabilty Engineer
 Senior Product Designer
 
-To apply please click here: (https://jobs.lever.co/npmjs)
+To apply please click here: [https://jobs.lever.co/npmjs]
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
