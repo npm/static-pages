@@ -5,13 +5,6 @@
 
 We have no open positions at this time.
 
-We are in the screening process for the following positions:
-
-* Senior Engineering Manager
-* VP Sales
-* Digital Marketing Manager
-* Head of Finance
-
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
 ## About npm
