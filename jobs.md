@@ -3,10 +3,10 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have two open positions at this time.
+We have one open position at this time.
 
 * [Senior Service Reliability Engineer](https://jobs.lever.co/npmjs/1e375936-6303-4862-86a9-b4f79f3b66a3)
-* [Senior Product Designer](https://jobs.lever.co/npmjs/e300c59f-ac80-4235-b870-80ac2c24a1bd)
+
 
 To apply please click here: [apply](https://jobs.lever.co/npmjs)
 
