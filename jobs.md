@@ -3,14 +3,9 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have one open position at this time.
+We have no open positions at this time.
 
-* [Senior Service Reliability Engineer](https://jobs.lever.co/npmjs/1e375936-6303-4862-86a9-b4f79f3b66a3)
-
-
-To apply please click here: [apply](https://jobs.lever.co/npmjs)
-
-Closing date for applications is Friday, February 23, 2018.
+We are currently screening Senior Service Reliability Engineer resumes
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
