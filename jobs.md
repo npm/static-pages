@@ -5,7 +5,9 @@
 
 We have one open position at this time.
 
-## Senior Account Executive.
+## [Senior Account Executive].(https://jobs.lever.co/npmjs)
+
+
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
