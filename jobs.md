@@ -21,13 +21,13 @@ You should have a disciplined approach to sales, and be an effective user of aut
 This role gives you the unique opportunity to build sales for a startup that’s already widely recognized, used and loved by millions of developers. Working with a diverse team of talented (and fun) individuals, this is your opening to prosper while making web application development faster, more productive, and safer for thousands of businesses and millions of developers.
 
 ## Other qualifications:
-7+ years of experience in enterprise software or SaaS complex sales
-Startup experience - collaborating with marketing and product management to help them execute strategies that support great customer experience and revenue growth
-Effective and compelling personal written and verbal communication skills
-Able to adapt personal engagement style (e.g. challenger, relationship-builder, analyzer, driver) and the empathy to know what approach to use
-Understanding of web application development tools and practices
-Structured and strategic approach to driving contract and pricing negotiations for six-figure deals
-Anticipated travel <25%, working from our Oakland, CA office most other days
+	7+ years of experience in enterprise software or SaaS complex sales
+	Startup experience - collaborating with marketing and product management to help them execute strategies that support great customer experience and revenue growth
+	Effective and compelling personal written and verbal communication skills
+	Able to adapt personal engagement style (e.g. challenger, relationship-builder, analyzer, driver) and the empathy to know what approach to use
+	Understanding of web application development tools and practices
+	Structured and strategic approach to driving contract and pricing negotiations for six-figure deals
+	Anticipated travel <25%, working from our Oakland, CA office most other days
 
 ## This position reports to the VP of Sales.
 
