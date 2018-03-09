@@ -5,7 +5,7 @@
 
 We have one open position at this time.
 
-## [Senior Account Executive.](https://jobs.lever.co/npmjs)
+## [Senior Account Executive.](https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd)
 
 
 
