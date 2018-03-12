@@ -7,37 +7,15 @@ We have one open position at this time.
 
 ## [Senior Account Executive.](https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd)
 
-
-
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
 npm, Inc. is the company behind npm, used by millions of Javascript developers and by companies like Google, PayPal, Uber, Twitter, Dropbox, Tesla, Adobe, Amazon and thousands of others every day to build great web applications faster.
 
 npm is expanding its enterprise-focused offering to give businesses enhanced security and control over applications they build using open source components. Typical sales opportunities for these products range from $10,000 to over $100’s of thousands per year.
 
-## The position
-As an early member of the sales team, you will bring a diverse set of talents to be successful. You’ll not only be prospecting and closing complex enterprise sales. You will also help us ramp and scale by evaluating what strategies work and sharing your learning with the team. That learning will help us develop the sales playbook and to align the rest of the organization for rapid growth. You should be fluent in discussing software development practices as well as budget and delivery issues and challenges that face engineering, product development and IT managers, directors and VP’s. You’ll use that understanding to explore those challenges and translate the impact into business costs and discuss potential ways to help your customer achieve success. 
-
-You should have a disciplined approach to sales, and be an effective user of automated sales tools to develop highly personalized and targeted multi-touch outreach. We’re data-driven, and focus on pipeline progress, customer interaction metrics to find ways to drive deal velocity to help you beat your targets. Success depends on you maintaining accurate and up to date information in our CRM.
-
-This role gives you the unique opportunity to build sales for a startup that’s already widely recognized, used and loved by millions of developers. Working with a diverse team of talented (and fun) individuals, this is your opening to prosper while making web application development faster, more productive, and safer for thousands of businesses and millions of developers.
-
-## Other qualifications:
-7+ years of experience in enterprise software or SaaS complex sales,
-
-Startup experience - collaborating with marketing and product management to help them execute strategies that support great customer experience and revenue growth,
-
-Effective and compelling personal written and verbal communication skills	
-
-Able to adapt personal engagement style (e.g. challenger, relationship-builder, analyzer, driver) with the empathy to know what approach to use
-	
-Understanding of web application development tools and practices
-	
-Structured and strategic approach to driving contract and pricing negotiations for six-figure deals
-
-Anticipated travel <25%, working from our Oakland, CA office most other days
-
 ## This position reports to the VP of Sales.
+
+## Closing date for this position is: Monday, March 26 2018.
 
 ## About npm
 
