@@ -29,7 +29,7 @@ Startup experience - collaborating with marketing and product management to help
 
 Effective and compelling personal written and verbal communication skills	
 
-Able to adapt personal engagement style (e.g. challenger, relationship-builder, analyzer, driver) and the empathy to know what approach to use
+Able to adapt personal engagement style (e.g. challenger, relationship-builder, analyzer, driver) with the empathy to know what approach to use
 	
 Understanding of web application development tools and practices
 	
