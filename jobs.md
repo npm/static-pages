@@ -13,7 +13,7 @@ npm, Inc. is the company behind npm, used by millions of Javascript developers a
 
 npm is expanding its enterprise-focused offering to give businesses enhanced security and control over applications they build using open source components. Typical sales opportunities for these products range from $10,000 to over $100’s of thousands per year.
 
-## This position reports to the VP of Sales.
+This position reports to the VP of Sales.
 
 ## Closing date for this position is: Monday, March 26 2018.
 
