@@ -15,7 +15,7 @@ npm is expanding its enterprise-focused offering to give businesses enhanced sec
 
 This position reports to the VP of Sales.
 
-## Closing date for this position is: Monday, March 26 2018.
+## Closing date for this position is: Friday, March 30th 2018.
 
 ## About npm
 
