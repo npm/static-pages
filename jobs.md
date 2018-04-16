@@ -5,7 +5,7 @@
 
 We have one open position at this time.
 
-## [Senior Account Executive.](https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd)
+## [Account Executive.](https://jobs.lever.co/npmjs/c45d5a5d-1c89-484f-9a6a-18e9c21dfbda)
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
@@ -15,7 +15,7 @@ npm is expanding its enterprise-focused offering to give businesses enhanced sec
 
 This position reports to the VP of Sales.
 
-## Closing date for this position is: Friday, March 30th 2018.
+## Closing date for this position is: Friday, May 11th 2018.
 
 ## About npm
 
