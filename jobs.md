@@ -3,19 +3,14 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have one open position at this time.
+We have two open positions at this time.
 
 ## [Account Executive.](https://jobs.lever.co/npmjs/c45d5a5d-1c89-484f-9a6a-18e9c21dfbda)
+   *Closing date Friday, May 11th 2018.
+## [Sr. Service Reliability Engineer.](https://jobs.lever.co/npmjs/3f79c77d-c627-4086-87a6-eca91c59f962)
+  *Closing date Monday April 30th 2018.  
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
-
-npm, Inc. is the company behind npm, used by millions of Javascript developers and by companies like Google, PayPal, Uber, Twitter, Dropbox, Tesla, Adobe, Amazon and thousands of others every day to build great web applications faster.
-
-npm is expanding its enterprise-focused offering to give businesses enhanced security and control over applications they build using open source components. Typical sales opportunities for these products range from $10,000 to over $100’s of thousands per year.
-
-This position reports to the VP of Sales.
-
-## Closing date for this position is: Friday, May 11th 2018.
 
 ## About npm
 
