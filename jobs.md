@@ -3,17 +3,7 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have three open positions at this time.
-
-## [Sr. Service Reliability Engineer.](https://jobs.lever.co/npmjs/3f79c77d-c627-4086-87a6-eca91c59f962)
-  Closing date Monday, April 30th, 2018. 
-
-## [Account Executive.](https://jobs.lever.co/npmjs/c45d5a5d-1c89-484f-9a6a-18e9c21dfbda)
-   Closing date Friday, May 11th, 2018.
-   
-## [Senior Account Executive.](https://jobs.lever.co/npmjs/a536c7dd-906f-4109-bfcd-31dc40576ebd)
-   Closing date Friday May 18th, 2018
-
+We have no open positions at this time.
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
