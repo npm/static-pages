@@ -3,7 +3,11 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
-We have no open positions at this time.
+
+We are looking for a Sales Intern. npm, Inc. is rapidly growing. Our enterprise sales team needs your help this summer. We’ve got customers who need help buying our products. Our sales team needs help preparing quotes, completing transactions, billing, and doing prospect research. 
+
+Follow this link to apply [here](https://jobs.lever.co/npmjs/33c4c64e-42e1-4467-be76-afa856165493).
+
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
