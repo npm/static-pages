@@ -7,6 +7,7 @@
 npm is expanding its enterprise-focused offering to give businesses enhanced security and control over applications they build using open source components. Typical sales opportunities for these products range from $10,000 to over $100’s of thousands per year. As sales engineer you will be the primary technical point of contact with your customers, collaborating with other engineers at npm on technical and architectural strategies to enrich and evolve npm's enterprise products. 
 
 Follow this link to apply [here](https://jobs.lever.co/npmjs/35aa724e-3aaf-423b-913f-40f5aed7a1a3). 
+
 We are accepting resumes through July 29th, 2018.
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
