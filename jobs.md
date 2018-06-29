@@ -3,11 +3,10 @@
   <h2>npm is hiring</h2>
 </hgroup>
 
+<h1>Sales Engineer</h1>
+npm is expanding its enterprise-focused offering to give businesses enhanced security and control over applications they build using open source components. Typical sales opportunities for these products range from $10,000 to over $100’s of thousands per year. As sales engineer you will be the primary technical point of contact with your customers, collaborating with other engineers at npm on technical and architectural strategies to enrich and evolve npm's enterprise products. 
 
-We are looking for a Sales Intern. npm, Inc. is rapidly growing. Our enterprise sales team needs your help this summer. We’ve got customers who need help buying our products. Our sales team needs help preparing quotes, completing transactions, billing, and doing prospect research. 
-
-Follow this link to apply [here](https://jobs.lever.co/npmjs/33c4c64e-42e1-4467-be76-afa856165493).
-
+Follow this link to apply [here](https://jobs.lever.co/npmjs).
 
 Follow [@npm_hiring](https://twitter.com/npm_hiring) on Twitter.
 
